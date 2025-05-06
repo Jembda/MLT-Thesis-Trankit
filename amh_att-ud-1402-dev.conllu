@@ -1,0 +1,2198 @@
+# sent_id = data_UD-x19-s11
+# text = ጦማቸውን ዋሉ ።
+# translit = ţomačäwənə walu .
+1-3	ጦማቸውን	_	_	_	_	_	_	_	_
+1	ጦም	ጦም	NOUN	NOUN	_	4	advcl	_	Translit=ţomə|LTranslit=ţomə
+2	ኣቸው	እሱ	PRON	POSM	Number=Plur|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əsu|Translit='ačäwə
+3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+4-5	ዋሉ	_	_	_	_	_	_	_	_
+4	ዋል	ዋል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=walə|LTranslit=walə
+5	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	4	nsubj:pass	_	LTranslit='əsu|Translit='u
+6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x14-s6
+# text = ከእናቱ ጋር ምሳ የበላው ካሳ አይደለም ።
+# translit = kä'ənatu garə məsa jäbälawə kasa 'äjədälämə .
+1-3	ከእናቱ	_	_	_	_	_	_	_	_
+1	ከ	ከ	ADP	ADP	_	2	case	_	Translit=kä|LTranslit=kä
+2	እናት	እናት	NOUN	NOUN	_	7	obl	_	Translit='ənatə|LTranslit='ənatə
+3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
+4	ጋር	ጋር	ADP	ADP	_	2	case	_	Translit=garə|LTranslit=garə
+5	ምሳ	ምሳ	NOUN	NOUN	_	7	obj	_	Translit=məsa|LTranslit=məsa
+6-8	የበላው	_	_	_	_	_	_	_	_
+6	የ	የ	PART	RLP	_	7	mark	_	Translit=jä|LTranslit=jä
+7	በላ	በላ	VERB	VERB	Mood=Ind|VerbForm=Fin	9	acl	_	Translit=bäla|LTranslit=bäla
+8	ው	ው	PRON	PRON	_	7	expl	_	Translit=wə|LTranslit=wə
+9	ካሳ	ካሳ	PROPN	PROPN	_	10	csubj	_	Translit=kasa|LTranslit=kasa
+10-12	አይደለም	_	_	_	_	_	_	_	_
+10	አይደል	አይደል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='äjədälə|LTranslit='äjədälə
+11	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit='ă
+12	ም	ም	PART	NCM	_	10	discourse	_	Translit=mə|LTranslit=mə
+13	።	።	PUNCT	PUNCT	_	10	punct	_	Translit=.|LTranslit=.
+
+# sent_id = amh059
+# text = ማማ ስር አስቀምጠውት ተመልሱ ።
+# translit = māma sər ʾāsḳämtäwät tämälsu .
+1	ማማ	ማማ	NOUN	NOUN	_	3	obl	_	Translit=māma|LTranslit=māma
+2	ስር	ስር	NOUN	NOUN	_	3	obl	_	Translit=sər|LTranslit=sər
+3-5	አስቀምጠውት	_	_	_	_	_	_	_	_
+3	አስቀምጠ	አስቀምጠ	VERB	VERB	VerbForm=Imp	6	advcl	_	Translit=ʾāsḳämtä|LTranslit=ʾāsḳämtä
+4	ው	እሱ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	LTranslit=wät|Translit=wät
+5	ት	ት	PART	PART	_	3	advmod	_	Translit=tə|LTranslit=tə
+6-7	ተመልሱ	_	_	_	_	_	_	_	_
+6	ተመለለሰ	ተመለሰ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=tämäləsə|LTranslit=tämäləsə
+7	ኡ	እሱ	PRON	SUBJC	Gender=Neut|Number=Plur|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='o
+8	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x20-s3
+# text = እፎይ ይኸው በመጨረሻ ደረስን ።
+# translit = 'əfojə jəkchäwə bämäćäräša däräsənə .
+1	እፎይ	እፎይ	INTJ	INTJ	_	5	discourse	_	Translit='əfojə|LTranslit='əfojə
+2	ይኸው	ይኸው	DET	DET	_	5	advmod	_	Translit=jəkchäwə|LTranslit=jəkchäwə
+3-4	በመጨረሻ	_	_	_	_	_	_	_	_
+3	በ	በ	ADP	ADP	_	4	case	_	Translit=bä|LTranslit=bä
+4	መጨረሻ	መጨረሻ	NOUN	NOUN	_	5	obl	_	Translit=mäćäräša|LTranslit=mäćäräša
+5-6	ደረስን	_	_	_	_	_	_	_	_
+5	ደረስ	ደረስ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=däräsə|LTranslit=däräsə
+6	ን	እኔ	PRON	SUBJC	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	LTranslit='əne|Translit=nə
+7	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x03-s19
+# text = ምሳ በላሁ ።
+# translit = məsa bälahu .
+1	ምሳ	ምሳ	NOUN	NOUN	_	2	obj	_	Translit=məsa|LTranslit=məsa
+2-3	በላሁ	_	_	_	_	_	_	_	_
+2	በላ	በላ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=bäla|LTranslit=bäla
+3	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	LTranslit='əne|Translit=hu
+4	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x15-s20
+# text = አስቴርን የሰደቡአት ልጆች ታሰሩ ።
+# translit = 'äsəterənə jäsädäbu'ätə lədžočə tasäru .
+1-2	አስቴርን	_	_	_	_	_	_	_	_
+1	አስቴር	አስቴር	PROPN	PROPN	_	4	obj	_	Translit='äsəterə|LTranslit='äsəterə
+2	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+3-6	የሰደቡአት	_	_	_	_	_	_	_	_
+3	የ	የ	PART	RLP	_	4	mark	_	Translit=jä|LTranslit=jä
+4	ሰደብ	ሰደብ	VERB	VERB	Mood=Ind|VerbForm=Fin	7	acl	_	Translit=sädäbə|LTranslit=sädäbə
+5	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='u
+6	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='atə
+7	ልጆች	ልጆች	NOUN	NOUN	Number=Plur	8	nsubj	_	Translit=lədžočə|LTranslit=lədžočə
+8-9	ታሰሩ	_	_	_	_	_	_	_	_
+8	ታሰር	ታሰር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=tasärə|LTranslit=tasärə
+9	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	8	nsubj	_	LTranslit='əsu|Translit='u
+10	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x30-s2
+# text = ገነት ካሳ ያገባት ሴት ከአስቴር የበለጠች ወፍራም እንደሆነች ታውቃለች ።
+# translit = gänätə kasa jagäbatə setə kä'äsəterə jäbäläţäčə wäfəramə 'ənədähonäčə tawəqaläčə .
+1	ገነት	ገነት	PROPN	PROPN	_	17	nsubj	_	Translit=gänätə|LTranslit=gänätə
+2	ካሳ	ካሳ	PROPN	PROPN	_	4	nsubj	_	Translit=kasa|LTranslit=kasa
+3-5	ያገባት	_	_	_	_	_	_	_	_
+3	የ	የ	ADP	ADP	_	4	mark	_	Translit=jä|LTranslit=jä
+4	ኣገብ	ኣገብ	VERB	VERB	Mood=Ind|VerbForm=Fin	6	acl	_	Translit='agäbə|LTranslit='agäbə
+5	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='atə
+6	ሴት	ሴት	NOUN	NOUN	_	14	nsubj	_	Translit=setə|LTranslit=setə
+7-8	ከአስቴር	_	_	_	_	_	_	_	_
+7	ከ	ከ	ADP	ADP	_	8	case	_	Translit=kä|LTranslit=kä
+8	አስቴር	አስቴር	PROPN	PROPN	_	10	obl	_	Translit='äsəterə|LTranslit='äsəterə
+9-11	የበለጠች	_	_	_	_	_	_	_	_
+9	የ	የ	ADP	ADP	_	10	mark	_	Translit=jä|LTranslit=jä
+10	በለጠ	በለጠ	VERB	VERB	Mood=Ind|VerbForm=Fin	12	advcl	_	Translit=bäläţä|LTranslit=bäläţä
+11	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	LTranslit='əsu|Translit='ăčə
+12	ወፍራም	ወፍራም	ADJ	ADJ	_	14	xcomp	_	Translit=wäfəramə|LTranslit=wäfəramə
+13-15	እንደሆነች	_	_	_	_	_	_	_	_
+13	እንደ	እንደ	ADP	ADP	_	14	mark	_	Translit='ənədä|LTranslit='ənədä
+14	ሆን	ሆን	VERB	VERB	Mood=Ind|VerbForm=Fin	17	ccomp	_	Translit=honə|LTranslit=honə
+15	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	expl	_	LTranslit='əsu|Translit='ăčə
+16-19	ታውቃለች	_	_	_	_	_	_	_	_
+16	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	expl	_	LTranslit='əsu|Translit=tə
+17	ኣውቅ	ኣውቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='awəqə|LTranslit='awəqə
+18	ኣል	ኣል	AUX	AUX	_	17	aux	_	Translit='alə|LTranslit='alə
+19	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	expl	_	LTranslit='əsu|Translit='ăčə
+20	።	።	PUNCT	PUNCT	_	17	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x15-s9
+# text = እነሱ ሳሩን ይጨዱ !
+# translit = 'ənäsu sarunə jəćädu !
+1	እነሱ	እሱ	PRON	PRON	Number=Plur|Person=3|PronType=Prs	6	nsubj	_	LTranslit='əsu|Translit='ənäsu
+2-4	ሳሩን	_	_	_	_	_	_	_	_
+2	ሳር	ሳር	NOUN	NOUN	_	6	obj	_	Translit=sarə|LTranslit=sarə
+3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
+4	ን	ን	PART	ACC	_	2	case	_	Translit=nə|LTranslit=nə
+5-7	ይጨዱ	_	_	_	_	_	_	_	_
+5	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit=jə
+6	ጨድ	ጨድ	VERB	VERB	Mood=Jus|VerbForm=Fin	0	root	_	Translit=ćädə|LTranslit=ćädə
+7	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='u
+8	!	!	PUNCT	PUNCT	_	6	punct	_	Translit=!|LTranslit=!
+
+# sent_id = 156
+# text = የድመት ግልገሎች እየቦረቁ እና እየዘለሉ ይተጫወታሉ ።
+# translit = yedɨmät gɨlgälotš ʔɨyäboräkʔu ʔɨna ʔɨyäzälälʔu yäč̣äwätʔälʔu ።
+1-2	የድመት	_	_	_	_	_	_	_	_
+1	የ	የ	ADP	ADP	_	2	case	_	Translit=ye|LTranslit=ye
+2	ድመት	ድመት	NOUN	NOUN	_	3	compound	_	Translit=dɨmät|LTranslit=dɨmät
+3	ግልገሎች	ግልገሎች	NOUN	NOUN	Number=Plur	12	obl	_	Translit=gɨlgälotš|LTranslit=gɨlgälotš
+4-6	እየቦረቁ	_	_	_	_	_	_	_	_
+4	እየ	እየ	AUX	AUX	_	5	aux	_	Translit=ʔɨyä|LTranslit=ʔɨyä
+5	ቦረቅ	ቦረቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	12	advcl	_	Translit=boräk|LTranslit=boräk
+6	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit=ʔu
+7	እና	እና	CCONJ	CCONJ	_	5	cc	_	Translit=ʔɨna|LTranslit=ʔɨna
+8-10	እየዘለሉ	_	_	_	_	_	_	_	_
+8	እየ	እየ	AUX	AUX	_	7	aux	_	Translit=ʔɨyä|LTranslit=ʔɨyä
+9	ዘለል	ዘለል	VERB	VERB	Mood=Ind|VerbForm=Fin	12	ccomp	_	Translit=zäläl|LTranslit=zäläl
+10	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit=ʔu
+11-14	ይተጫወታሉ	_	_	_	_	_	_	_	_
+11	ይ	ይ	PRON	SUBJC	_	12	nsubj	_	Translit=y|LTranslit=y
+12	ተጫወት	ተጫወት	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=täč̣äwät|LTranslit=täč̣äwät
+13	ኣል	ኣል	AUX	AUX	_	12	aux	_	Translit=ʔäl|LTranslit=ʔäl
+14	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	12	nsubj	_	LTranslit='əsu|Translit=ʔu
+15	።	።	PUNCT	PUNCT	_	12	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 056
+# text = ምን ጊዜም በጥሩ ሁኔታ ላይ እንገኛለን ።
+# translit = mɨn gizem bätɨru huneta lay ʔɨnägɛɲʔalän.
+1	ምን	ምን	PRON	PRON	_	2	nmod	_	Translit=mɨn|LTranslit=mɨn
+2-3	ጊዜም	_	_	_	_	_	_	_	_
+2	ጊዜ	ጊዜ	NOUN	NOUN	_	9	obj	_	Translit=gɨze|LTranslit=gɨze
+3	ም	ም	CCONJ	CCONJ	_	2	cc	_	Translit=mɨ|LTranslit=mɨ
+4-5	በጥሩ	_	_	_	_	_	_	_	_
+4	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
+5	ጥሩ	ጥሩ	ADJ	ADJ	_	6	amod	_	Translit=ṭɨru|LTranslit=ṭɨru
+6	ሁኔታ	ሁኔታ	NOUN	NOUN	_	9	obl	_	Translit=huneta|LTranslit=huneta
+7	ላይ	ላይ	ADP	ADP	_	6	case	_	Translit=lay|LTranslit=lay
+8-11	እንገኛለን	_	_	_	_	_	_	_	_
+8	እን	እኔ	PRON	SUBJC	Number=Plur|Person=1|PronType=Prs	9	expl	_	LTranslit='əne|Translit='ɨn
+9	ተገኝ	ተገኝ	VERB	VERB	_	0	root	_	Translit=tägäñ|LTranslit=tägäñ
+10	ኣል	ኣል	AUX	AUX	_	9	aux	_	Translit='äl|LTranslit='äl
+11	ኧን	እኔ	PRON	SUBJC	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	LTranslit='əne|Translit='ăn
+12	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 003
+# text = ይህ አይታበልም ።
+# translit = yɨh al yɨtabäl mə.
+1	ይህ	ይህ	DET	DET	PronType=Dem	4	det	_	Translit=yɨh|LTranslit=yɨh
+2-6	አይታበልም	_	_	_	_	_	_	_	_
+2	አል	አል	PART	PART	Polarity=Neg	4	advmod	_	Translit=al|LTranslit=al
+3	ይ	ይ	PRON	PRON	Person=3	4	expl	_	Translit=yɨ|LTranslit=yɨ
+4	ታበል	ታበል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=täbäl|LTranslit=täbäl
+5	ኧ	እሱ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='əsu
+6	ም	ም	PART	PART	_	4	discourse	_	Translit=mə|LTranslit=mə
+7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = amh064
+# text = ደርግ ውርሶ ለሌላ ባለሀብት ሰጠው ።
+# translit = därg wərsso lä-lälä bä-lähäbət säṭṭäw .
+1	ደርግ	ደርግ	PROPN	PROPN	_	8	nsubj	_	Translit=därg|LTranslit=därg
+2-3	ውርሶ	_	_	_	_	_	_	_	_
+2	ውረሰ	ውረስ	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	8	obj	_	Translit=wərsso|LTranslit=wərs
+3	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='o
+4-5	ለሌላ	_	_	_	_	_	_	_	_
+4	ለ	ለ	ADP	ADP	_	5	case	_	Translit=lä|LTranslit=lä
+5	ሌላ	ሌላ	DET	DET	PronType=Ind	7	det	_	Translit=lälä|LTranslit=lälä
+6-7	ባለሀብት	_	_	_	_	_	_	_	_
+6	ባለ	ባለ	ADJ	ADJ	_	7	amod	_	Translit=bä-lä|LTranslit=bä-lä
+7	ሀብት	ሀብት	NOUN	NOUN	Gender=Masc|Number=Sing	8	obl	_	Translit=häbət|LTranslit=häbət8
+8-9	ሰጠው	_	_	_	_	_	_	_	_
+8	ሰጠ	ሰጠ	VERB	VERB	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Translit=säṭṭäw|LTranslit=säṭṭä
+9	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
+10	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x09-s4
+# text = ካሳ ለልጆቹ መንገዱን አሳያቸው ።
+# translit = kasa lälədžoču mänəgädunə 'äsajačäwə .
+1	ካሳ	ካሳ	PROPN	PROPN	_	8	nsubj	_	Translit=kasa|LTranslit=kasa
+2-4	ለልጆቹ	_	_	_	_	_	_	_	_
+2	ለ	ለ	ADP	ADP	_	3	case	_	Translit=lä|LTranslit=lä
+3	ልጆች	ልጆች	NOUN	NOUN	_	8	obl	_	Translit=lədžočə|LTranslit=lədžočə
+4	ኡ	ኡ	DET	DET	_	3	det	_	Translit='u|LTranslit='u
+5-7	መንገዱን	_	_	_	_	_	_	_	_
+5	መንገድ	መንገድ	NOUN	NOUN	_	8	obj	_	Translit=mänəgädə|LTranslit=mänəgädə
+6	ኡ	ኡ	DET	DET	_	5	det	_	Translit='u|LTranslit='u
+7	ን	ን	PART	ACC	_	5	case	_	Translit=nə|LTranslit=nə
+8-10	አሳያቸው	_	_	_	_	_	_	_	_
+8	አሳይ	አሳይ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsajə|LTranslit='äsajə
+9	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ă
+10	ኣቸው	እሱ	PRON	OBJC	Number=Plur|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ačäwə
+11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x01-s10
+# text = ካሳ የአስቴር ወደ ጎንደር መሄድ ሰምቶአል ።
+# translit = kasa jä'äsəterə wädä gonədärə mähedə säməto'älə .
+1	ካሳ	ካሳ	PROPN	PROPN	_	7	nsubj	_	Translit=kasa|LTranslit=kasa
+2-3	የአስቴር	_	_	_	_	_	_	_	_
+2	የ	የ	ADP	ADP	_	3	case	_	Translit=jä|LTranslit=jä
+3	አስቴር	አስቴር	PROPN	PROPN	_	6	obl	_	Translit='äsəterə|LTranslit='äsəterə
+4	ወደ	ወደ	ADP	ADP	_	5	case	_	Translit=wädä|LTranslit=wädä
+5	ጎንደር	ጎንደር	NOUN	NOUN	_	6	obl	_	Translit=gonədärə|LTranslit=gonədärə
+6	መሄድ	መሄድ	NOUN	NOUN	VerbForm=Vnoun	7	ccomp	_	Translit=mähedə|LTranslit=mähedə
+7-9	ሰምቶአል	_	_	_	_	_	_	_	_
+7	ሰምት	ሰምት	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=sämətə|LTranslit=sämətə
+8	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='o
+9	ኣል	ኣል	AUX	AUX	_	7	aux	_	Translit='alə|LTranslit='alə
+10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x03-s14
+# text = ካሳ አስቴር ስለታመመች ወደ ትምህርት ቤት አልሄደም ።
+# translit = kasa 'äsəterə səlätamämäčə wädä təməhərətə betə 'äləhedämə .
+1	ካሳ	ካሳ	PROPN	PROPN	_	10	nsubj	_	Translit=kasa|LTranslit=kasa
+2	አስቴር	አስቴር	PROPN	PROPN	_	4	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
+3-5	ስለታመመች	_	_	_	_	_	_	_	_
+3	ስለ	ስለ	SCONJ	SCONJ	_	4	mark	_	Translit=səlä|LTranslit=səlä
+4	ታመም	ታመም	VERB	VERB	Mood=Ind|VerbForm=Fin	10	advcl	_	Translit=tamämə|LTranslit=tamämə
+5	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ăčə
+6	ወደ	ወደ	ADP	ADP	_	8	case	_	Translit=wädä|LTranslit=wädä
+7	ትምህርት	ትምህርት	NOUN	NOUN	_	8	compound	_	Translit=təməhərətə|LTranslit=təməhərətə
+8	ቤት	ቤት	NOUN	NOUN	_	10	obl	_	Translit=betə|LTranslit=betə
+9-12	አልሄደም	_	_	_	_	_	_	_	_
+9	ኣል	ኣል	PART	NEG	Polarity=Neg	10	advmod	_	Translit='alə|LTranslit='alə
+10	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=hedə|LTranslit=hedə
+11	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit='ă
+12	ም	ም	PART	NCM	_	10	discourse	_	Translit=mə|LTranslit=mə
+13	።	።	PUNCT	PUNCT	_	10	punct	_	Translit=.|LTranslit=.
+
+# sent_id = amh081
+# text = ከዚያ በኋላ ፈዝዞ ቀረ ።
+# translit = käziya bäwäla fäzzäzo kärrä.
+1-2	ከዚያ	_	_	_	_	_	_	_	_
+1	ከ	ከ	ADP	ADP	_	2	case	_	Translit=kä|LTranslit=kä
+2	እዚያ	እዚያ	DET	DET	_	6	nmod	_	Translit='əzija|LTranslit='əzija
+3	በኋላ	በኋላ	ADP	ADP	_	2	mark	_	Translit=bächwala|LTranslit=bächwala
+4-5	ፈዝዞ	_	_	_	_	_	_	_	_
+4	ፈዘዘ	ፈዘዘ	VERB	VERB	Mood=Ind|VerbForm=Fin	6	advcl	_	Translit=fäzzäzo|LTranslit=fäzzäzo
+5	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='o
+6-7	ቀረ	_	_	_	_	_	_	_	_
+6	ቀር	ቀር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=qärə|LTranslit=qärə
+7	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	LTranslit='əsu|Translit='ă
+8	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x26-s19
+# text = ያለኝ ቤት ትንሽ ነው ።
+# translit = jaläňə betə tənəšə näwə .
+1-3	ያለኝ	_	_	_	_	_	_	_	_
+1	የ	የ	ADP	ADP	_	2	mark	_	Translit=jä|LTranslit=jä
+2	ኣለ	ኣለ	VERB	VERB	Mood=Ind|VerbForm=Fin	4	acl	_	Translit='alä|LTranslit='alä
+3	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	2	expl	_	LTranslit='əne|Translit=ňə
+4	ቤት	ቤት	NOUN	NOUN	_	5	nsubj	_	Translit=betə|LTranslit=betə
+5	ትንሽ	ትንሽ	ADJ	ADJ	_	0	root	_	Translit=tənəšə|LTranslit=tənəšə
+6-7	ነው	_	_	_	_	_	_	_	_
+6	ን	ን	AUX	AUX	_	5	cop	_	Translit=nə|LTranslit=nə
+7	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='ăwə
+8	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x16-s17
+# text = ገንዘቡን ማን እንደሰጣት ንገረን ?
+# translit = gänəzäbunə manə 'ənədäsäţatə nəgäränə ?
+1-3	ገንዘቡን	_	_	_	_	_	_	_	_
+1	ገንዘብ	ገንዘብ	NOUN	NOUN	_	6	obj	_	Translit=gänəzäbə|LTranslit=gänəzäbə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+4	ማን	ማን	PRON	PRON	_	6	nsubj	_	Translit=manə|LTranslit=manə
+5-8	እንደሰጣት	_	_	_	_	_	_	_	_
+5	እንደ	እንደ	SCONJ	SCONJ	_	6	mark	_	Translit='ənədä|LTranslit='ənədä
+6	ሰጥ	ሰጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	9	ccomp	_	Translit=säţə|LTranslit=säţə
+7	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='ă
+8	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='atə
+9-11	ንገረን	_	_	_	_	_	_	_	_
+9	ንገር	ንገር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=nəgärə|LTranslit=nəgärə
+10	ኧ	እኔ	PRON	OBJC	Gender=Neut|Number=Plur|Person=1|PronType=Prs|Typo=Yes	9	expl	_	LTranslit='əne|Translit='ă
+11	ን	ን	X	_	_	10	goeswith	_	Translit=nə
+12	?	?	PUNCT	PUNCT	_	9	punct	_	Translit=?|LTranslit=?
+
+# sent_id = data_UD-third_apple_2-x29-s1
+# text = ሰውየው ከሌባው ጋር ተናነቀ ።
+# translit = säwəjäwə kälebawə garə tänanäqä .
+1-2	ሰውየው	_	_	_	_	_	_	_	_
+1	ሰው	ሰው	NOUN	NOUN	_	7	nsubj	_	Translit=säwə|LTranslit=säwə
+2	ዬ_ው	ዬ_ው	DET	DET	_	1	det	_	Translit=je_wə|LTranslit=je_wə
+3-5	ከሌባው	_	_	_	_	_	_	_	_
+3	ከ	ከ	ADP	ADP	_	4	case	_	Translit=kä|LTranslit=kä
+4	ሌባ	ሌባ	NOUN	NOUN	_	7	obl	_	Translit=leba|LTranslit=leba
+5	ው	ው	DET	DET	_	4	det	_	Translit=wə|LTranslit=wə
+6	ጋር	ጋር	ADP	ADP	_	4	case	_	Translit=garə|LTranslit=garə
+7-8	ተናነቀ	_	_	_	_	_	_	_	_
+7	ተናነቅ	ተናነቅ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Rcp	0	root	_	Translit=tänanäqə|LTranslit=tänanäqə
+8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ă
+9	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = amh095
+# text = የሀገሪቱን ምድር አንድ ሦስተኛውን ያህል አዳረስ ።
+# translit = ya-hagärītu-nə mədər and sostäññawunə ya-hələ a-däräsä .
+1-4	የሀገሪቱን	_	_	_	_	_	_	_	_
+1	የ	የ	PART	POSS	_	2	case	_	Translit=ya|LTranslit=ya
+2	ሀገር	ሀገር	NOUN	NOUN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	Translit=hägarītu-nə|LTranslit=hägar
+3	ኡ	እሱ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	LTranslit='əsu|Translit='u
+4	ን	ን	PART	ACC	_	2	case	_	Translit=nə|LTranslit=nə
+5	ምድር	ምድር	NOUN	NOUN	Gender=Fem|Number=Sing	12	obj	_	Translit=mədər|LTranslit=mədər
+6	አንድ	አንድ	NUM	NUM	NumType=Card	7	nummod	_	Translit=andə|LTranslit=andə
+7-9	ሦስተኛውን	_	_	_	_	_	_	_	_
+7	ሦስተኛ	ሦስተኛ	ADJ	ADJ	NumType=Ord	12	amod	_	Translit=sostäññawunə|LTranslit=sostäñña
+8	ው	ው	DET	DET	_	7	det	_	Translit=wə|LTranslit=wə
+9	ን	ን	PART	ACC	_	7	case	_	Translit=nə|LTranslit=nə
+10	ያህል	ያህል	NOUN	NOUN	_	12	obl	_	Translit=ya-hələ|LTranslit=ya-həl
+11-13	አዳረስ	_	_	_	_	_	_	_	_
+11	አ	አ	AUX	AUX	_	12	aux	_	Translit=a|LTranslit=a
+12	ደረስ	ደረስ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='adäräsə|LTranslit='adäräsə
+13	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	LTranslit='əsu|Translit='ă
+14	።	።	PUNCT	PUNCT	_	12	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x13-s5
+# text = ዶሮዎቹ ቆጥ ላይ ሰፈሩ ።
+# translit = dorowoču qoţə lajə säfäru .
+1-2	ዶሮዎቹ	_	_	_	_	_	_	_	_
+1	ዶሮዎች	ዶሮዎች	NOUN	NOUN	Number=Plur	5	nsubj	_	Translit=dorowočə|LTranslit=dorowočə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3	ቆጥ	ቆጥ	NOUN	NOUN	_	5	obl	_	Translit=qoţə|LTranslit=qoţə
+4	ላይ	ላይ	ADP	ADP	_	3	case	_	Translit=lajə|LTranslit=lajə
+5-6	ሰፈሩ	_	_	_	_	_	_	_	_
+5	ሰፈር	ሰፈር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=säfärə|LTranslit=säfärə
+6	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit='u
+7	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x01-s13
+# text = ወደ አገር ቤት በሄድኩ ጊዜ ማንንም አልጠየኩም ።
+# translit = wädä 'ägärə betə bähedəku gize manənəmə 'äləţäjäkumə .
+1	ወደ	ወደ	ADP	ADP	_	3	case	_	Translit=wädä|LTranslit=wädä
+2	አገር	አገር	NOUN	NOUN	_	3	compound	_	Translit='ägärə|LTranslit='ägärə
+3	ቤት	ቤት	NOUN	NOUN	_	5	obl	_	Translit=betə|LTranslit=betə
+4-6	በሄድኩ	_	_	_	_	_	_	_	_
+4	በ	በ	PART	RLP	_	5	mark	_	Translit=bä|LTranslit=bä
+5	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	7	acl	_	Translit=hedə|LTranslit=hedə
+6	ኩ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	LTranslit='əne|Translit=ku
+7	ጊዜ	ጊዜ	NOUN	NOUN	_	12	advcl	_	Translit=gize|LTranslit=gize
+8-10	ማንንም	_	_	_	_	_	_	_	_
+8	ማን	ማን	PRON	PRON	_	12	obj	_	Translit=manə|LTranslit=manə
+9	ን	ን	PART	ACC	_	8	case	_	Translit=nə|LTranslit=nə
+10	ም	ም	CCONJ	CCONJ	_	8	discourse	_	Translit=mə|LTranslit=mə
+11-14	አልጠየኩም	_	_	_	_	_	_	_	_
+11	ኣል	ኣል	PART	NEG	Polarity=Neg	12	advmod	_	Translit='alə|LTranslit='alə
+12	ጠየቅ	ጠየቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=ţäjäqə|LTranslit=ţäjäqə
+13	ኩ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	LTranslit='əne|Translit=ku
+14	ም	ም	PART	NCM	_	12	discourse	_	Translit=mə|LTranslit=mə
+15	።	።	PUNCT	PUNCT	_	12	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x20-s14
+# text = መግደል ኃጢያት ነው ።
+# translit = mägədälə chaţijatə näwə .
+1	መግደል	መግደል	NOUN	NOUN	_	2	nsubj	_	Translit=mägədälə|LTranslit=mägədälə
+2	ኃጢያት	ኃጢያት	NOUN	NOUN	_	0	root	_	Translit=chaţijatə|LTranslit=chaţijatə
+3-4	ነው	_	_	_	_	_	_	_	_
+3	ን	ን	AUX	AUX	_	2	cop	_	Translit=nə|LTranslit=nə
+4	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăwə
+5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x04-s6
+# text = አልማዝ ተስፋ ቆረጠች ።
+# translit = 'äləmazə täsəfa qoräţäčə .
+1	አልማዝ	አልማዝ	PROPN	PROPN	_	3	nsubj	_	Translit='äləmazə|LTranslit='äləmazə
+2	ተስፋ	ተስፋ	NOUN	NOUN	_	3	obj	_	Translit=täsəfa|LTranslit=täsəfa
+3-4	ቆረጠች	_	_	_	_	_	_	_	_
+3	ቆረጥ	ቆረጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=qoräţə|LTranslit=qoräţə
+4	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăčə
+5	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 082
+# text = አስራት ፍጹም ዝምተኛ ነው ።
+# translit = ʔäsïrat fïts'üm zəmt’äñña näw.
+1	አስራት	አስራት	PROPN	PROPN	_	3	nsubj	_	Translit=Asrat|LTranslit=Asrat
+2	ፍጹም	ፍጹም	ADJ	ADJ	_	3	amod	_	Translit=fitṣum|LTranslit=fitṣum
+3	ዝምተኛ	ዝምተኛ	ADJ	ADJ	_	0	root	_	Translit=zɨmt'äñña|LTranslit=zɨmt'äñña
+4-5	ነው	_	_	_	_	_	_	_	_
+4	ን	ን	AUX	AUX	_	3	cop	_	Translit=n|LTranslit=n
+5	ኧው	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit=ḥew
+6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=?|LTranslit=?
+
+# sent_id = data_UD-third_apple_2-x27-s8
+# text = ግድግዳውን መራረገ ።
+# translit = gədəgədawənə märarägä .
+1-3	ግድግዳውን	_	_	_	_	_	_	_	_
+1	ግድግዳ	ግድግዳ	NOUN	NOUN	_	4	obj	_	Translit=gədəgəda|LTranslit=gədəgəda
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+4-5	መራረገ	_	_	_	_	_	_	_	_
+4	መራረግ	መራረግ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=märarägə|LTranslit=märarägə
+5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='ă
+6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x07-s11
+# text = አልማዝን አመማት ።
+# translit = 'äləmazənə 'ämämatə .
+1-2	አልማዝን	_	_	_	_	_	_	_	_
+1	አልማዝ	አልማዝ	PROPN	PROPN	_	3	nsubj:pass	_	Translit='äləmazə|LTranslit='äləmazə
+2	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+3-5	አመማት	_	_	_	_	_	_	_	_
+3	አመም	አመም	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='ämämə|LTranslit='ämämə
+4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	LTranslit='əsu|Translit='ă
+5	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='atə
+6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x17-s1
+# text = የምትሄድ ከሆነ ይህን መጽሐፍ መልስልኝ ።
+# translit = jämətəhedə kähonä jəhənə mäcəħäfə mäləsələňə .
+1-4	የምትሄድ	_	_	_	_	_	_	_	_
+1	የ	የ	PART	RLP	_	4	mark	_	Translit=jä|LTranslit=jä
+2	እም	እም	PART	IRLP	_	4	nsubj	_	Translit='əmə|LTranslit='əmə
+3	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit=tə
+4	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	6	xcomp	_	Translit=hedə|LTranslit=hedə
+5-7	ከሆነ	_	_	_	_	_	_	_	_
+5	ከ	ከ	ADP	ADP	_	6	mark	_	Translit=kä|LTranslit=kä
+6	ሆን	ሆን	VERB	VERB	Mood=Ind|VerbForm=Fin	11	advcl	_	Translit=honə|LTranslit=honə
+7	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	LTranslit='əsu|Translit='ă
+8-9	ይህን	_	_	_	_	_	_	_	_
+8	ይህ	ይህ	DET	DET	_	10	det	_	Translit=jəhə|LTranslit=jəhə
+9	ን	ን	PART	ACC	_	10	case	_	Translit=nə|LTranslit=nə
+10	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	11	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
+11-13	መልስልኝ	_	_	_	_	_	_	_	_
+11	መልስ	መልስ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=mäləsə|LTranslit=mäləsə
+12	ል	ል	ADP	ADP	Case=Ben	11	case	_	Translit=lə|LTranslit=lə
+13	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	11	expl	_	LTranslit='əne|Translit=ňə
+14	።	።	PUNCT	PUNCT	_	11	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s2
+# text = አስተማሪ ናት ።
+# translit = 'äsətämari natə .
+1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
+2-3	ናት	_	_	_	_	_	_	_	_
+2	ን	ን	AUX	AUX	_	1	cop	_	Translit=nə|LTranslit=nə
+3	ኣት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	LTranslit='əsu|Translit='atə
+4	።	።	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x15-s15
+# text = ጨውን ብታቀብለኝ ?
+# translit = ćäwənə bətaqäbəläňə ?
+1-2	ጨውን	_	_	_	_	_	_	_	_
+1	ጨው	ጨው	NOUN	NOUN	_	5	obj	_	Translit=ćäwə|LTranslit=ćäwə
+2	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+3-6	ብታቀብለኝ	_	_	_	_	_	_	_	_
+3	ብ	ብ	SCONJ	SCONJ	_	5	case	_	Translit=bə|LTranslit=bə
+4	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit=tə
+5	ኣቀብል	ኣቀብል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='aqäbələ|LTranslit='aqäbələ
+6	ኧኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	5	expl	_	LTranslit='əne|Translit='ăňə
+7	?	?	PUNCT	PUNCT	_	5	punct	_	Translit=?|LTranslit=?
+
+# sent_id = 210
+# text = በቤተሰቡ ውስጥ ዘጠኝ ሰዎች ይገኛሉ ።
+# translit = bäbätesäb u wïst zät’äñ säwoč yägänyä’äl.
+1-3	በቤተሰቡ	_	_	_	_	_	_	_	_
+1	በ	በ	ADP	ADP	_	2	mark	_	Translit=bə|LTranslit=bə
+2	ቤተሰብ	ቤተሰብ	NOUN	NOUN	_	8	advmod	_	Translit=bät’äsebə|LTranslit=bät’äsebə
+3	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	LTranslit='əsu|Translit='əsu
+4	ውስጥ	ውስጥ	ADP	ADP	_	2	case	_	Translit=wïst|LTranslit=wïst
+5	ዘጠኝ	ዘጠኝ	NUM	NUM	_	6	nummod	_	Translit=zät’äñ|LTranslit=zät’äñ
+6	ሰዎች	ሰዎች	NOUN	NOUN	_	8	xcomp	_	Translit=säwoč|LTranslit=säwoč
+7-10	ይገኛሉ	_	_	_	_	_	_	_	_
+7	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='əsu
+8	ተገኝ	ተገኝ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=tägäñ|LTranslit=tägäñ
+9	ኣል	ኣል	AUX	AUX	_	8	aux	_	Translit='äl|LTranslit='äl
+10	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	8	nsubj	_	LTranslit='əsu|Translit='u
+11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x12-s9
+# text = ሰዎች ሰይጣን አለ ብለው ያምናሉ ።
+# translit = säwočə säjəţanə 'älä bəläwə jamənalu .
+1	ሰዎች	ሰዎች	NOUN	NOUN	Number=Plur	8	nsubj	_	Translit=säwočə|LTranslit=säwočə
+2	ሰይጣን	ሰይጣን	NOUN	NOUN	_	3	nsubj	_	Translit=säjəţanə|LTranslit=säjəţanə
+3-4	አለ	_	_	_	_	_	_	_	_
+3	ኣል	ኣል	VERB	VERB	Mood=Ind|VerbForm=Fin	5	ccomp	_	Translit='alə|LTranslit='alə
+4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	LTranslit='əsu|Translit='ă
+5-6	ብለው	_	_	_	_	_	_	_	_
+5	ብል	ብል	VERB	VERB	Mood=Ind|VerbForm=Fin	8	xcomp	_	Translit=bələ|LTranslit=bələ
+6	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit='ăwə
+7-10	ያምናሉ	_	_	_	_	_	_	_	_
+7	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	LTranslit='əsu|Translit=jə
+8	ኣምን	ኣምን	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='amənə|LTranslit='amənə
+9	ኣል	ኣል	AUX	AUX	_	8	aux	_	Translit='alə|LTranslit='alə
+10	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='u
+11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x06-s17
+# text = ድመቷን የወሰድኳት እኔ ነኝ ።
+# translit = dəmätănə jäwäsädəkwatə 'əne näňə .
+1-3	ድመቷን	_	_	_	_	_	_	_	_
+1	ድመት	ድመት	NOUN	NOUN	_	5	obj	_	Translit=dəmätə|LTranslit=dəmätə
+2	ዋ	ዋ	DET	DET	_	1	det	_	Translit=wa|LTranslit=wa
+3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+4-7	የወሰድኳት	_	_	_	_	_	_	_	_
+4	የ	የ	PART	RLP	_	5	mark	_	Translit=jä|LTranslit=jä
+5	ወሰድ	ወሰድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=wäsädə|LTranslit=wäsädə
+6	ኩ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	5	expl	_	LTranslit='əne|Translit=ku
+7	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='atə
+8	እኔ	እኔ	PRON	PRON	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	LTranslit='əne|Translit='əne
+9-10	ነኝ	_	_	_	_	_	_	_	_
+9	ን	ን	AUX	AUX	_	5	aux	_	Translit=nə|LTranslit=nə
+10	ኧኝ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	5	expl	_	LTranslit='əne|Translit='ăňə
+11	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x28-s10
+# text = የኔ~ቢጤው ሲለማምን ውሎ ቤተ ክርስቲያን ያድራል ።
+# translit = jäne~biţewə silämamənə wəlo betä kərəsətijanə jadəralə .
+1-2	የኔ~ቢጤው	_	_	_	_	_	_	_	_
+1	የኔ~ቢጤ	የኔ~ቢጤ	NOUN	NOUN	_	5	nsubj	_	Translit=jäne~biţe|LTranslit=jäne~biţe
+2	ው	ው	DET	DET	_	1	det	_	Translit=wə|LTranslit=wə
+3-5	ሲለማምን	_	_	_	_	_	_	_	_
+3	ስ	ስ	SCONJ	SCONJ	_	5	mark	_	Translit=sə|LTranslit=sə
+4	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit=jə
+5	ለማምን	ለማምን	VERB	VERB	Mood=Ind|VerbForm=Fin	6	advcl	_	Translit=lämamənə|LTranslit=lämamənə
+6-7	ውሎ	_	_	_	_	_	_	_	_
+6	ውል	ውል	VERB	VERB	Mood=Ind|VerbForm=Fin	11	compound:svc	_	Translit=wələ|LTranslit=wələ
+7	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	LTranslit='əsu|Translit='o
+8	ቤተ	ቤተ	NOUN	NOUN	_	9	compound	_	Translit=betä|LTranslit=betä
+9	ክርስቲያን	ክርስቲያን	NOUN	NOUN	_	11	obl	_	Translit=kərəsətijanə|LTranslit=kərəsətijanə
+10-12	ያድራል	_	_	_	_	_	_	_	_
+10	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	LTranslit='əsu|Translit=jə
+11	ኣድር	ኣድር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='adərə|LTranslit='adərə
+12	ኣል	ኣል	AUX	AUX	_	11	aux	_	Translit='alə|LTranslit='alə
+13	።	።	PUNCT	PUNCT	_	11	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x08-s5
+# text = ሻንጣዬን ተሰረቅሁ ።
+# translit = šanəţajenə täsäräqəhu .
+1-3	ሻንጣዬን	_	_	_	_	_	_	_	_
+1	ሻንጣ	ሻንጣ	NOUN	NOUN	_	4	obj	_	Translit=šanəţa|LTranslit=šanəţa
+2	ዬ	እኔ	PRON	POSM	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əne|Translit=je
+3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+4-5	ተሰረቅሁ	_	_	_	_	_	_	_	_
+4	ተሰረቅ	ተሰረቅ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=täsäräqə|LTranslit=täsäräqə
+5	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	_	LTranslit='əne|Translit=hu
+6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x00-s20
+# text = በመናገር ላይ እያለሁ መልስ ሰጠችኝ ።
+# translit = bämänagärə lajə 'əjalähu mäləsə säţäčəňə .
+1-2	በመናገር	_	_	_	_	_	_	_	_
+1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
+2	መናገር	መናገር	NOUN	NOUN	VerbForm=Vnoun	8	advcl	_	Translit=mänagärə|LTranslit=mänagärə
+3	ላይ	ላይ	ADP	ADP	_	2	case	_	Translit=lajə|LTranslit=lajə
+4-6	እያለሁ	_	_	_	_	_	_	_	_
+4	እየ	እየ	SCONJ	SCONJ	_	5	mark	_	Translit='əjä|LTranslit='əjä
+5	ኣለ	ኣለ	VERB	VERB	Mood=Ind|VerbForm=Fin	2	advcl	_	Translit='alä|LTranslit='alä
+6	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	LTranslit='əne|Translit=hu
+7	መልስ	መልስ	NOUN	NOUN	_	8	obj	_	Translit=mäləsə|LTranslit=mäləsə
+8-10	ሰጠችኝ	_	_	_	_	_	_	_	_
+8	ሰጥ	ሰጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=säţə|LTranslit=säţə
+9	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	LTranslit='əsu|Translit='ăčə
+10	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	8	iobj	_	LTranslit='əne|Translit=ňə
+11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x13-s3
+# text = አስቴር ወደ ቤት ገባች ።
+# translit = 'äsəterə wädä betə gäbačə .
+1	አስቴር	አስቴር	PROPN	PROPN	_	4	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
+2	ወደ	ወደ	ADP	ADP	_	3	case	_	Translit=wädä|LTranslit=wädä
+3	ቤት	ቤት	NOUN	NOUN	_	4	obl	_	Translit=betə|LTranslit=betə
+4-5	ገባች	_	_	_	_	_	_	_	_
+4	ገባ	ገባ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=gäba|LTranslit=gäba
+5	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ăčə
+6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 127
+# text = ፍቅር ታምራዊ ክስተት ነው ።
+# translit = fəqər tamräwi kəstät nə ʔäw.
+1	ፍቅር	ፍቅር	NOUN	NOUN	_	3	nsubj	_	Translit=fəqər|LTranslit=fəqər
+2	ታምራዊ	ታምራዊ	ADJ	ADJ	_	3	amod	_	Translit=tamräwi|LTranslit=tamräwi
+3	ክስተት	ክስተት	NOUN	NOUN	_	0	root	_	Translit=kəstät|LTranslit=kəstät
+4-5	ነው	_	_	_	_	_	_	_	_
+4	ን	ን	AUX	AUX	_	3	cop	_	Translit=nə|LTranslit=nə
+5	ኧው	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=ʔäw
+6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x07-s9
+# text = አልማዝ ታመመች ።
+# translit = 'äləmazə tamämäčə .
+1	አልማዝ	አልማዝ	PROPN	PROPN	_	2	nsubj	_	Translit='äləmazə|LTranslit='äləmazə
+2-3	ታመመች	_	_	_	_	_	_	_	_
+2	ታመም	ታመም	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=tamämə|LTranslit=tamämə
+3	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăčə
+4	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x05-s11
+# text = ካሳ ወደ ጎጃም በአውቶብስ ተጓዘ ።
+# translit = kasa wädä godžamə bä'äwətobəsə tägwazä .
+1	ካሳ	ካሳ	PROPN	PROPN	_	6	nsubj	_	Translit=kasa|LTranslit=kasa
+2	ወደ	ወደ	ADP	ADP	_	3	case	_	Translit=wädä|LTranslit=wädä
+3	ጎጃም	ጎጃም	PROPN	PROPN	_	6	obl	_	Translit=godžamə|LTranslit=godžamə
+4-5	በአውቶብስ	_	_	_	_	_	_	_	_
+4	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
+5	አውቶብስ	አውቶብስ	NOUN	NOUN	_	6	obl	_	Translit='äwətobəsə|LTranslit='äwətobəsə
+6-7	ተጓዘ	_	_	_	_	_	_	_	_
+6	ተጓዝ	ተጓዝ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=tägwazə|LTranslit=tägwazə
+7	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='ă
+8	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x22-s3
+# text = ብዙ ጨኸት ከመኖሩ የተነሣ ሊተኙ አልቻሉም ።
+# translit = bəzu ćäkchätə kämänoru jätänäśa litäňu 'äləčalumə .
+1	ብዙ	ብዙ	ADJ	ADJ	_	2	amod	_	Translit=bəzu|LTranslit=bəzu
+2	ጨኸት	ጨኸት	NOUN	NOUN	_	4	nsubj	_	Translit=ćäkchätə|LTranslit=ćäkchätə
+3-5	ከመኖሩ	_	_	_	_	_	_	_	_
+3	ከ	ከ	ADP	ADP	_	4	case	_	Translit=kä|LTranslit=kä
+4	መኖር	መኖር	NOUN	NOUN	VerbForm=Vnoun	7	advcl	_	Translit=mänorə|LTranslit=mänorə
+5	ኡ	ኡ	DET	DET	_	4	det	_	Translit='u|LTranslit='u
+6-7	የተነሣ	_	_	_	_	_	_	_	_
+6	የ	የ	ADP	ADP	_	7	mark	_	Translit=jä|LTranslit=jä
+7	ተነሣ	ተነሣ	VERB	VERB	Mood=Ind|VerbForm=Fin	10	advcl	_	Translit=tänäśa|LTranslit=tänäśa
+8-11	ሊተኙ	_	_	_	_	_	_	_	_
+8	ል	ል	SCONJ	SCONJ	_	10	mark	_	Translit=lə|LTranslit=lə
+9	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	LTranslit='əsu|Translit=jə
+10	ተኝ	ተኝ	VERB	VERB	Mood=Ind|VerbForm=Fin	13	xcomp	_	Translit=täňə|LTranslit=täňə
+11	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	10	nsubj	_	LTranslit='əsu|Translit='u
+12-15	አልቻሉም	_	_	_	_	_	_	_	_
+12	ኣል	ኣል	PART	NEG	Polarity=Neg	13	advmod	_	Translit='alə|LTranslit='alə
+13	ቻል	ቻል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=čalə|LTranslit=čalə
+14	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	13	nsubj	_	LTranslit='əsu|Translit='u
+15	ም	ም	PART	NCM	_	13	discourse	_	Translit=mə|LTranslit=mə
+16	።	።	PUNCT	PUNCT	_	13	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x09-s2
+# text = አልማዝ ወተት አመጣች ።
+# translit = 'äləmazə wätätə 'ämäţačə .
+1	አልማዝ	አልማዝ	PROPN	PROPN	_	3	nsubj	_	Translit='äləmazə|LTranslit='äləmazə
+2	ወተት	ወተት	NOUN	NOUN	_	3	obj	_	Translit=wätätə|LTranslit=wätätə
+3-4	አመጣች	_	_	_	_	_	_	_	_
+3	አመጣ	አመጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='ämäţa|LTranslit='ämäţa
+4	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăčə
+5	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x05-s9
+# text = አልማዝ እናቷን ሰለ ወንድሟ ሞት ጠየቀች ።
+# translit = 'äləmazə 'ənatănə sälä wänədəmă motə ţäjäqäčə .
+1	አልማዝ	አልማዝ	PROPN	PROPN	_	9	nsubj	_	Translit='äləmazə|LTranslit='äləmazə
+2-4	እናቷን	_	_	_	_	_	_	_	_
+2	እናት	እናት	NOUN	NOUN	_	9	obj	_	Translit='ənatə|LTranslit='ənatə
+3	ዋ	እሱ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	LTranslit='əsu|Translit=wa
+4	ን	ን	PART	ACC	_	2	case	_	Translit=nə|LTranslit=nə
+5	ሰለ	ሰለ	ADP	ADP	_	6	case	_	Translit=sälä|LTranslit=sälä
+6-7	ወንድሟ	_	_	_	_	_	_	_	_
+6	ወንድም	ወንድም	NOUN	NOUN	_	8	obl	_	Translit=wänədəmə|LTranslit=wänədəmə
+7	ዋ	እሱ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	obl	_	LTranslit='əsu|Translit=wa
+8	ሞት	ሞት	NOUN	NOUN	_	9	obl	_	Translit=motə|LTranslit=motə
+9-10	ጠየቀች	_	_	_	_	_	_	_	_
+9	ጠየቅ	ጠየቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=ţäjäqə|LTranslit=ţäjäqə
+10	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit='ăčə
+11	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x07-s1
+# text = የምጠላው ጠላ መጠጣቷን ነው ።
+# translit = jäməţälawə ţäla mäţäţatănə näwə .
+1-5	የምጠላው	_	_	_	_	_	_	_	_
+1	የ	የ	PART	RLP	_	4	mark	_	Translit=jä|LTranslit=jä
+2	እም	እም	PART	IRLP	_	4	mark	_	Translit='əmə|LTranslit='əmə
+3	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	expl	_	LTranslit='əne|Translit='ə
+4	ጠላ	ጠላ	VERB	VERB	Mood=Ind|VerbForm=Fin	6	acl	_	Translit=ţäla|LTranslit=ţäla
+5	ው	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	LTranslit='əne|Translit=wə
+6	ጠላ	ጠላ	NOUN	NOUN	_	7	nmod	_	Translit=ţäla|LTranslit=ţäla
+7-8	መጠጣቷን	_	_	_	_	_	_	_	_
+7	መጠጣት	መጠጣት	NOUN	NOUN	_	0	root	_	Translit=mäţäţatə|LTranslit=mäţäţatə
+8	ዋን	ዋን	DET	DET	_	7	det	_	Translit=wanə|LTranslit=wanə
+9-10	ነው	_	_	_	_	_	_	_	_
+9	ን	ን	AUX	AUX	_	7	cop	_	Translit=nə|LTranslit=nə
+10	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ăwə
+11	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x19-s7
+# text = ሀምሌትን ሆኖ የሚጫወተው ማነው ?
+# translit = häməletənə hono jämićawätäwə manäwə ?
+1-2	ሀምሌትን	_	_	_	_	_	_	_	_
+1	ሀምሌት	ሀምሌት	NOUN	NOUN	_	8	obj	_	Translit=häməletə|LTranslit=häməletə
+2	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+3-4	ሆኖ	_	_	_	_	_	_	_	_
+3	ሆን	ሆን	AUX	AUX	_	8	aux	_	Translit=honə|LTranslit=honə
+4	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='o
+5-9	የሚጫወተው	_	_	_	_	_	_	_	_
+5	የ	የ	PART	RLP	_	8	mark	_	Translit=jä|LTranslit=jä
+6	እም	እም	PART	IRLP	_	8	mark	_	Translit='əmə|LTranslit='əmə
+7	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit=jə
+8	ጫወት	ጫወት	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=ćawätə|LTranslit=ćawätə
+9	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
+10-12	ማነው	_	_	_	_	_	_	_	_
+10	ማን	ማን	PRON	PRON	_	8	nsubj	_	Translit=manə|LTranslit=manə
+11	ን	ን	AUX	AUX	_	8	aux	_	Translit=nə|LTranslit=nə
+12	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
+13	?	?	PUNCT	PUNCT	_	8	punct	_	Translit=?|LTranslit=?
+
+# sent_id = data_UD-x16-s15
+# text = መኪና ሲመጣ ስታይ አትደንግጥ ።
+# translit = mäkina simäţa sətajə 'ätədänəgəţə .
+1	መኪና	መኪና	NOUN	NOUN	_	4	nsubj	_	Translit=mäkina|LTranslit=mäkina
+2-5	ሲመጣ	_	_	_	_	_	_	_	_
+2	ስ	ስ	SCONJ	SCONJ	_	4	mark	_	Translit=sə|LTranslit=sə
+3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=jə
+4	መጣ	መጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	8	xcomp	_	Translit=mäţa|LTranslit=mäţa
+5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ă
+6-8	ስታይ	_	_	_	_	_	_	_	_
+6	ስ	ስ	SCONJ	SCONJ	_	8	mark	_	Translit=sə|LTranslit=sə
+7	ት	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	LTranslit='änətä|Translit=tə
+8	ኣይ	ኣይ	VERB	VERB	Mood=Ind|VerbForm=Fin	11	advcl	_	Translit='ajə|LTranslit='ajə
+9-11	አትደንግጥ	_	_	_	_	_	_	_	_
+9	ኣል	ኣል	PART	NEG	Polarity=Neg	11	advmod	_	Translit='alə|LTranslit='alə
+10	ት	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	LTranslit='änətä|Translit=tə
+11	ደንግጥ	ደንግጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=dänəgəţə|LTranslit=dänəgəţə
+12	።	።	PUNCT	PUNCT	_	11	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x16-s15
+# text = ትምህርት ቤት በሄድኩ ቁጥር ኳስ እጫወታለሁ ።
+# translit = təməhərətə betə bähedəku quţərə kwasə 'əćawätalähu .
+1	ትምህርት	ትምህርት	NOUN	NOUN	_	2	compound	_	Translit=təməhərətə|LTranslit=təməhərətə
+2	ቤት	ቤት	NOUN	NOUN	_	4	obl	_	Translit=betə|LTranslit=betə
+3-5	በሄድኩ	_	_	_	_	_	_	_	_
+3	በ	በ	PART	RLP	_	4	mark	_	Translit=bä|LTranslit=bä
+4	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	9	ccomp	_	Translit=hedə|LTranslit=hedə
+5	ኩ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	LTranslit='əne|Translit=ku
+6	ቁጥር	ቁጥር	NOUN	NOUN	_	4	nmod	_	Translit=quţərə|LTranslit=quţərə
+7	ኳስ	ኳስ	NOUN	NOUN	_	9	obj	_	Translit=kwasə|LTranslit=kwasə
+8-11	እጫወታለሁ	_	_	_	_	_	_	_	_
+8	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	LTranslit='əne|Translit='ə
+9	ጫወት	ጫወት	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=ćawätə|LTranslit=ćawätə
+10	ኣል	ኣል	AUX	AUX	_	9	aux	_	Translit='alə|LTranslit='alə
+11	ኧሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	LTranslit='əne|Translit='ăhu
+12	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x15-s4
+# text = ወንዙ ምን ያህል ይረዝማል ?
+# translit = wänəzu mənə jahələ jəräzəmalə ?
+1-2	ወንዙ	_	_	_	_	_	_	_	_
+1	ወንዝ	ወንዝ	NOUN	NOUN	_	6	nsubj	_	Translit=wänəzə|LTranslit=wänəzə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3	ምን	ምን	ADV	ADV	_	4	advmod	_	Translit=mənə|LTranslit=mənə
+4	ያህል	ያህል	ADJ	ADJ	_	1	amod	_	Translit=jahələ|LTranslit=jahələ
+5-7	ይረዝማል	_	_	_	_	_	_	_	_
+5	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit=jə
+6	ረዝም	ረዝም	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=räzəmə|LTranslit=räzəmə
+7	ኣል	ኣል	AUX	AUX	_	6	aux	_	Translit='alə|LTranslit='alə
+8	?	?	PUNCT	PUNCT	_	6	punct	_	Translit=?|LTranslit=?
+
+# sent_id = data_UD-third_apple_2-x15-s17
+# text = መኝታ ቤት ሂድና ኮቴን አምጣልኝ !
+# translit = mäňəta betə hidəna kotenə 'äməţaləňə !
+1	መኝታ	መኝታ	NOUN	NOUN	_	2	compound	_	Translit=mäňəta|LTranslit=mäňəta
+2	ቤት	ቤት	NOUN	NOUN	_	3	obl	_	Translit=betə|LTranslit=betə
+3-4	ሂድና	_	_	_	_	_	_	_	_
+3	ሂድ	ሂድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=hidə|LTranslit=hidə
+4	ና	ና	CCONJ	CCONJ	_	3	cc	_	Translit=na|LTranslit=na
+5-7	ኮቴን	_	_	_	_	_	_	_	_
+5	ኮት	ኮት	NOUN	NOUN	_	8	obj	_	Translit=kotə|LTranslit=kotə
+6	ኤ	ኤ	DET	DET	_	5	det	_	Translit='e|LTranslit='e
+7	ን	ን	PART	ACC	_	5	case	_	Translit=nə|LTranslit=nə
+8-11	አምጣልኝ	_	_	_	_	_	_	_	_
+8	አምጣ	አምጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	3	conj	_	Translit='äməţa|LTranslit='äməţa
+9	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	LTranslit='əsu|Translit='ă
+10	ል	ል	ADP	ADP	Case=Ben	8	mark	_	Translit=lə|LTranslit=lə
+11	ኝ	እኔ	PRON	OBJC	Gender=Neut|Number=Sing|Person=1|PronType=Prs	8	expl	_	LTranslit='əne|Translit=ňə
+12	!	!	PUNCT	PUNCT	_	3	punct	_	Translit=!|LTranslit=!
+
+# sent_id = data_UD-x10-s5
+# text = የደከሙት አይኖቹ ብዙ አያስነብቡትም ።
+# translit = jädäkämutə 'äjənoču bəzu 'äjasənäbəbutəmə .
+1-4	የደከሙት	_	_	_	_	_	_	_	_
+1	የ	የ	ADP	ADP	_	2	mark	_	Translit=jä|LTranslit=jä
+2	ደከም	ደከም	VERB	VERB	Mood=Ind|VerbForm=Fin	5	acl	_	Translit=däkämə|LTranslit=däkämə
+3	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	LTranslit='əsu|Translit='u
+4	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	LTranslit='əsu|Translit=tə
+5-6	አይኖቹ	_	_	_	_	_	_	_	_
+5	አይኖች	አይኖች	NOUN	NOUN	Number=Plur	10	nsubj	_	Translit='äjənočə|LTranslit='äjənočə
+6	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	LTranslit='əsu|Translit='u
+7	ብዙ	ብዙ	ADV	ADV	_	10	advmod	_	Translit=bəzu|LTranslit=bəzu
+8-13	አያስነብቡትም	_	_	_	_	_	_	_	_
+8	ኣል	ኣል	PART	NEG	Polarity=Neg	10	advmod	_	Translit='alə|LTranslit='alə
+9	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit=jə
+10	ኣስነብ	ኣስነብ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='asənäbə|LTranslit='asənäbə
+11	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit='u
+12	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit=tə
+13	ም	ም	PART	NCM	_	10	discourse	_	Translit=mə|LTranslit=mə
+14	።	።	PUNCT	PUNCT	_	10	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x21-s8
+# text = ቤት መሥራት ይችላል ።
+# translit = betə mäśəratə jəčəlalə .
+1	ቤት	ቤት	NOUN	NOUN	_	2	obj	_	Translit=betə|LTranslit=betə
+2	መሥራት	መሥራት	NOUN	NOUN	VerbForm=Vnoun	4	xcomp	_	Translit=mäśəratə|LTranslit=mäśəratə
+3-5	ይችላል	_	_	_	_	_	_	_	_
+3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit=jə
+4	ችል	ችል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=čələ|LTranslit=čələ
+5	ኣል	ኣል	AUX	AUX	_	4	aux	_	Translit='alə|LTranslit='alə
+6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x30-s10
+# text = አስቴር የሄደችበት ምክንያት ምንድን ነው ?
+# translit = 'äsəterə jähedäčəbätə məkənəjatə mənədənə näwə ?
+1	አስቴር	አስቴር	PROPN	PROPN	_	3	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
+2-6	የሄደችበት	_	_	_	_	_	_	_	_
+2	የ	የ	PART	RLP	_	3	mark	_	Translit=jä|LTranslit=jä
+3	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	7	acl	_	Translit=hedə|LTranslit=hedə
+4	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăčə
+5	በ	በ	ADP	ADP	Case=Ben	3	case	_	Translit=bä|LTranslit=bä
+6	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit=tə
+7	ምክንያት	ምክንያት	NOUN	NOUN	_	8	nsubj	_	Translit=məkənəjatə|LTranslit=məkənəjatə
+8-9	ምንድን	_	_	_	_	_	_	_	_
+8	ምንድ	ምንድን	PRON	PRON	Typo=Yes	0	root	_	Translit=mənədə|LTranslit=mənədənə
+9	ን	ን	X	_	_	8	goeswith	_	Translit=nə
+10-11	ነው	_	_	_	_	_	_	_	_
+10	ን	ን	AUX	AUX	_	8	cop	_	Translit=nə|LTranslit=nə
+11	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
+12	?	?	PUNCT	PUNCT	_	8	punct	_	Translit=?|LTranslit=?
+
+# sent_id = data_UD-third_apple_2-x18-s11
+# text = ከኛ ጋር እንደምትቆይ መቼስ የታወቀ ነው ።
+# translit = käňa garə 'ənədämətəqojə mäčesə jätawäqä näwə .
+1-2	ከኛ	_	_	_	_	_	_	_	_
+1	ከ	ከ	ADP	ADP	_	2	case	_	Translit=kä|LTranslit=kä
+2	እኛ	እኔ	PRON	PRON	Number=Plur|Person=1|PronType=Prs	7	obl	_	LTranslit='əne|Translit='əňa
+3	ጋር	ጋር	ADP	ADP	_	2	case	_	Translit=garə|LTranslit=garə
+4-7	እንደምትቆይ	_	_	_	_	_	_	_	_
+4	እንደ	እንደ	SCONJ	SCONJ	_	7	mark	_	Translit='ənədä|LTranslit='ənədä
+5	እም	እም	PART	IRLP	_	7	mark	_	Translit='əmə|LTranslit='əmə
+6	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit=tə
+7	ቆይ	ቆይ	VERB	VERB	Mood=Ind|VerbForm=Fin	11	csubj	_	Translit=qojə|LTranslit=qojə
+8-9	መቼስ	_	_	_	_	_	_	_	_
+8	መቼ	መቼ	PRON	PRON	_	11	obl	_	Translit=mäče|LTranslit=mäče
+9	ስ	ስ	INTJ	INTJ	_	8	discourse	_	Translit=sə|LTranslit=sə
+10-12	የታወቀ	_	_	_	_	_	_	_	_
+10	የ	የ	PART	RLP	_	11	mark	_	Translit=jä|LTranslit=jä
+11	ታወቅ	ታወቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=tawäqə|LTranslit=tawäqə
+12	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl	_	LTranslit='əsu|Translit='ă
+13-14	ነው	_	_	_	_	_	_	_	_
+13	ን	ን	AUX	AUX	_	11	aux	_	Translit=nə|LTranslit=nə
+14	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	11	expl	_	LTranslit='əsu|Translit='ăwə
+15	።	።	PUNCT	PUNCT	_	11	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 088
+# text = የዘለቂታ አላማሽ ምንድን ነው ?
+# translit = yezäläḫïṭä alämašï mindïn nä’äw ?
+1-2	የዘለቂታ	_	_	_	_	_	_	_	_
+1	የ	የ	PART	RLP	_	2	mark	_	Translit=yä|LTranslit=yä
+2	ዘለቂታ	ዘለቂታ	ADJ	ADJ	_	3	amod	_	Translit=zäläḳïṭa|LTranslit=zäläḳïṭa
+3-4	አላማሽ	_	_	_	_	_	_	_	_
+3	አላማ	አላማ	NOUN	NOUN	_	5	nsubj	_	Translit=ʔäläma|LTranslit=ʔäläma
+4	ሽ	አንተ	PRON	POSM	Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nmod	_	LTranslit=šï|Translit=šï
+5	ምንድን	ምንድን	PRON	PRON	_	0	root	_	Translit=mïndïn|LTranslit=mïndïn
+6-7	ነው	_	_	_	_	_	_	_	_
+6	ን	ን	AUX	AUX	_	5	cop	_	Translit=ɨn|LTranslit=ɨn
+7	ኧው	እሱ	PRON	OBJC	Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit=ʔwätʃ
+8	?	?	PUNCT	PUNCT	_	5	punct	_	Translit=?|LTranslit=?
+
+# sent_id = 212
+# text = የመሃል ዳኛው ቆጣ አሉ ።
+# translit = yä-mäḥal daña wä ḳoṭa 'älʔu.
+1-2	የመሃል	_	_	_	_	_	_	_	_
+1	የ	የ	PART	RLP	_	2	mark	_	Translit=jä|LTranslit=jä
+2	መሃል	መሃል	NOUN	NOUN	_	3	obl	_	Translit=mähal|LTranslit=mähal
+3-4	ዳኛው	_	_	_	_	_	_	_	_
+3	ዳኛ	ዳኛ	NOUN	NOUN	_	7	advmod	_	Translit=daña|LTranslit=daña
+4	ው	ው	DET	DET	_	3	det	_	Translit=wə|LTranslit=wə
+5-6	ቆጣ	_	_	_	_	_	_	_	_
+5	ቆጥ	ቆጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	7	xcomp	_	Translit=täqoţə|LTranslit=täqoţə
+6	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='ă
+7-8	አሉ	_	_	_	_	_	_	_	_
+7	አል	አል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='älə|LTranslit='älə
+8	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='u
+9	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x06-s14
+# text = ቤት ነው የገዛሁት ።
+# translit = betə näwə jägäzahutə .
+1	ቤት	ቤት	NOUN	NOUN	_	5	obj	_	Translit=betə|LTranslit=betə
+2-3	ነው	_	_	_	_	_	_	_	_
+2	ን	ን	AUX	AUX	_	5	aux	_	Translit=nə|LTranslit=nə
+3	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='ăwə
+4-7	የገዛሁት	_	_	_	_	_	_	_	_
+4	የ	የ	PART	RLP	_	5	mark	_	Translit=jä|LTranslit=jä
+5	ገዛ	ገዛ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=gäza|LTranslit=gäza
+6	ሁ	እኔ	PRON	SUBJC	Gender=Neut|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	LTranslit='əne|Translit=hu
+7	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit=tə
+8	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 106
+# text = የመርሃቤቴ ሕዝብ ሙያው ግብርና ነው ።
+# translit = yämärähäbētē həzb muyäw gəbərnä näw .
+1-2	የመርሃቤቴ	_	_	_	_	_	_	_	_
+1	የ	የ	ADP	ADP	_	2	case	_	Translit=yä|LTranslit=yä
+2	መርሃቤቴ	መርሃቤቴ	PROPN	PROPN	_	3	obl	_	Translit=märähäbētē|LTranslit=märähäbētē
+3	ሕዝብ	ሕዝብ	NOUN	NOUN	Number=Sing	6	nsubj	_	Translit=həzb|LTranslit=həzb
+4-5	ሙያው	_	_	_	_	_	_	_	_
+4	ሙያ	ሙያ	NOUN	NOUN	Number=Sing	6	nmod	_	Translit=muyä|LTranslit=muyä
+5	ው	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod	_	LTranslit='əsu|Translit=wə
+6	ግብርና	ግብርና	NOUN	NOUN	Number=Sing	0	root	_	Translit=gəbərnä|LTranslit=gəbərnä
+7-8	ነው	_	_	_	_	_	_	_	_
+7	ን	ን	AUX	AUX	_	6	cop	_	Translit=nə|LTranslit=nə
+8	ኧው	ኧው	PRON	OBJC	Number=Sing|Person=3	6	expl	_	Translit='äw|LTranslit='äw
+9	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x20-s9
+# text = ሰው ሟች ነው ።
+# translit = säwə măčə näwə .
+1	ሰው	ሰው	NOUN	NOUN	_	2	nsubj	_	Translit=säwə|LTranslit=säwə
+2	ሟች	ሟች	NOUN	NOUN	_	0	root	_	Translit=măčə|LTranslit=măčə
+3-4	ነው	_	_	_	_	_	_	_	_
+3	ን	ን	AUX	AUX	_	2	cop	_	Translit=nə|LTranslit=nə
+4	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăwə
+5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x11-s15
+# text = ከጐኗ ተጣብቆ አልሄድም አለ ።
+# translit = kägwänă täţabəqo 'äləhedəmə 'älä .
+1-3	ከጐኗ	_	_	_	_	_	_	_	_
+1	ከ	ከ	ADP	ADP	_	2	case	_	Translit=kä|LTranslit=kä
+2	ጐን	ጐን	NOUN	NOUN	_	4	obl	_	Translit=gwänə|LTranslit=gwänə
+3	ዋ	እሱ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nmod	_	LTranslit='əsu|Translit=wa
+4-5	ተጣብቆ	_	_	_	_	_	_	_	_
+4	ተጣብቅ	ተጣብቅ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	7	advcl	_	Translit=täţabəqə|LTranslit=täţabəqə
+5	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='o
+6-8	አልሄድም	_	_	_	_	_	_	_	_
+6	ኣል	ኣል	PART	NEG	Polarity=Neg	7	advmod	_	Translit='alə|LTranslit='alə
+7	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	9	ccomp	_	Translit=hedə|LTranslit=hedə
+8	ም	ም	PART	NCM	_	7	discourse	_	Translit=mə|LTranslit=mə
+9-10	አለ	_	_	_	_	_	_	_	_
+9	ኣል	ኣል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='alə|LTranslit='alə
+10	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LTranslit='əsu|Translit='ă
+11	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x18-s5
+# text = አያታችን በዕድሜ እየገፉ ቢሄዱም ለዛቸው አልጠፋም ።
+# translit = 'äjatačənə bä`ədəme 'əjägäfu bihedumə läzačäwə 'äləţäfamə .
+1-2	አያታችን	_	_	_	_	_	_	_	_
+1	ኣያት	ኣያት	NOUN	NOUN	_	5	nsubj	_	Translit='ajatə|LTranslit='ajatə
+2	ኣችን	እኔ	PRON	POSM	Number=Plur|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əne|Translit='ačənə
+3-4	በዕድሜ	_	_	_	_	_	_	_	_
+3	በ	በ	ADP	ADP	_	4	case	_	Translit=bä|LTranslit=bä
+4	ዕድሜ	ዕድሜ	NOUN	NOUN	_	5	obl	_	Translit=`ədəme|LTranslit=`ədəme
+5-6	እየገፉ	_	_	_	_	_	_	_	_
+5	እየገፍ	እየገፍ	VERB	VERB	Mood=Ind|VerbForm=Fin	9	advcl	_	Translit='əjägäfə|LTranslit='əjägäfə
+6	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='u
+7-11	ቢሄዱም	_	_	_	_	_	_	_	_
+7	ብ	ብ	SCONJ	SCONJ	_	9	mark	_	Translit=bə|LTranslit=bə
+8	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LTranslit='əsu|Translit=jə
+9	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	15	advcl	_	Translit=hedə|LTranslit=hedə
+10	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	9	nsubj	_	LTranslit='əsu|Translit='u
+11	ም	ም	CCONJ	CCONJ	_	9	cc	_	Translit=mə|LTranslit=mə
+12-13	ለዛቸው	_	_	_	_	_	_	_	_
+12	ለዛ	ለዛ	NOUN	NOUN	_	15	nsubj	_	Translit=läza|LTranslit=läza
+13	ኣቸው	እሱ	PRON	POSM	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod	_	LTranslit='əsu|Translit='ačäwə
+14-17	አልጠፋም	_	_	_	_	_	_	_	_
+14	ኣል	ኣል	PART	NEG	Polarity=Neg	15	advmod	_	Translit='alə|LTranslit='alə
+15	ጠፋ	ጠፋ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=ţäfa|LTranslit=ţäfa
+16	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	expl	_	LTranslit='əsu|Translit='ă
+17	ም	ም	PART	NCM	_	15	discourse	_	Translit=mə|LTranslit=mə
+18	።	።	PUNCT	PUNCT	_	15	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x27-s13
+# text = ቀጭኑ የሸረሪት ድር ተበጣጠሰ ።
+# translit = qäćənu jäšäräritə dərə täbäţaţäsä .
+1-2	ቀጭኑ	_	_	_	_	_	_	_	_
+1	ቀጭን	ቀጭን	ADJ	ADJ	_	4	amod	_	Translit=qäćənə|LTranslit=qäćənə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3-4	የሸረሪት	_	_	_	_	_	_	_	_
+3	የ	የ	ADP	ADP	_	4	case	_	Translit=jä|LTranslit=jä
+4	ሸረሪት	ሸረሪት	NOUN	NOUN	_	5	nmod	_	Translit=šäräritə|LTranslit=šäräritə
+5	ድር	ድር	NOUN	NOUN	_	6	nsubj:pass	_	Translit=dərə|LTranslit=dərə
+6-7	ተበጣጠሰ	_	_	_	_	_	_	_	_
+6	ተበጣጠስ	ተበጣጠስ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=täbäţaţäsə|LTranslit=täbäţaţäsə
+7	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='ă
+8	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x05-s1
+# text = አስተማሪው መፅሐፉን ያዘ ።
+# translit = 'äsətämariwə mädzəħäfunə jazä .
+1-2	አስተማሪው	_	_	_	_	_	_	_	_
+1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	6	nsubj	_	Translit='äsətämari|LTranslit='äsətämari
+2	ው	ው	DET	DET	_	1	det	_	Translit=wə|LTranslit=wə
+3-5	መፅሐፉን	_	_	_	_	_	_	_	_
+3	መፅሐፍ	መፅሐፍ	NOUN	NOUN	_	6	obj	_	Translit=mädzəħäfə|LTranslit=mädzəħäfə
+4	ኡ	ኡ	DET	DET	_	3	det	_	Translit='u|LTranslit='u
+5	ን	ን	PART	ACC	_	3	case	_	Translit=nə|LTranslit=nə
+6-7	ያዘ	_	_	_	_	_	_	_	_
+6	ያዝ	ያዝ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=jazə|LTranslit=jazə
+7	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='ă
+8	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x12-s20
+# text = ሴቶቹ ሰከሩ ።
+# translit = setoču säkäru .
+1-2	ሴቶቹ	_	_	_	_	_	_	_	_
+1	ሴቶች	ሴቶች	NOUN	NOUN	Number=Plur	3	nsubj	_	Translit=setočə|LTranslit=setočə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3-4	ሰከሩ	_	_	_	_	_	_	_	_
+3	ሰከር	ሰከር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=säkärə|LTranslit=säkärə
+4	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='u
+5	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x28-s2
+# text = ነጋዴው ከሳስሯል ።
+# translit = nägadewə käsasərălə .
+1-2	ነጋዴው	_	_	_	_	_	_	_	_
+1	ነጋዴ	ነጋዴ	NOUN	NOUN	_	3	nsubj	_	Translit=nägade|LTranslit=nägade
+2	ው	ው	DET	DET	_	1	det	_	Translit=wə|LTranslit=wə
+3-5	ከሳስሯል	_	_	_	_	_	_	_	_
+3	ከሳስር	ከሳስር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=käsasərə|LTranslit=käsasərə
+4	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='o
+5	ኣል	ኣል	AUX	AUX	_	3	aux	_	Translit='alə|LTranslit='alə
+6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x10-s12
+# text = አልማዝ ስጋ ገዝታ ፣ ቀቅላ በላች ።
+# translit = 'äləmazə səga gäzəta , qäqəla bälačə .
+1	አልማዝ	አልማዝ	PROPN	PROPN	_	8	nsubj	_	Translit='äləmazə|LTranslit='äləmazə
+2	ስጋ	ስጋ	NOUN	NOUN	_	3	obj	_	Translit=səga|LTranslit=səga
+3-4	ገዝታ	_	_	_	_	_	_	_	_
+3	ገዝት	ገዝት	VERB	VERB	VerbForm=Conv	6	compound:svc	_	Translit=gäzətə|LTranslit=gäzətə
+4	ኣ	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='a
+5	፣	፣	PUNCT	PUNCT	_	3	punct	_	Translit=,|LTranslit=,
+6-7	ቀቅላ	_	_	_	_	_	_	_	_
+6	ቀቅል	ቀቅል	VERB	VERB	VerbForm=Conv	8	compound:svc	_	Translit=qäqələ|LTranslit=qäqələ
+7	ኣ	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='a
+8-9	በላች	_	_	_	_	_	_	_	_
+8	በላ	በላ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=bäla|LTranslit=bäla
+9	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăčə
+10	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 185
+# text = ሙቀቱ ደስ ይላል ።
+# translit = mūqätu däs yil’al.
+1-2	ሙቀቱ	_	_	_	_	_	_	_	_
+1	ሙቀት	ሙቀት	NOUN	NOUN	_	5	nsubj	_	Translit=mūqät|LTranslit=mūqät
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit=u|LTranslit=u
+3	ደስ	ደስ	VERB	VERB	Mood=Ind|VerbForm=Fin	5	ccomp	_	Translit=däs|LTranslit=däs
+4-6	ይላል	_	_	_	_	_	_	_	_
+4	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit=jə
+5	ል	ል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=yil|LTranslit=yil
+6	ኣል	ኣል	AUX	AUX	_	5	aux	_	Translit=’al|LTranslit=’al
+7	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x29-s4
+# text = መሬቱ አረም አበቀለ ።
+# translit = märetu 'ärämə 'äbäqälä .
+1-2	መሬቱ	_	_	_	_	_	_	_	_
+1	መሬት	መሬት	NOUN	NOUN	_	4	nsubj	_	Translit=märetə|LTranslit=märetə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3	አረም	አረም	NOUN	NOUN	_	4	obj	_	Translit='ärämə|LTranslit='ärämə
+4-5	አበቀለ	_	_	_	_	_	_	_	_
+4	አበቀል	አበቀል	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äbäqälə|LTranslit='äbäqälə
+5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ă
+6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x18-s16
+# text = ዛሬሳ ምንም ምግብ አትቀምስም ?
+# translit = zaresa mənəmə məgəbə 'ätəqäməsəmə ?
+1-2	ዛሬሳ	_	_	_	_	_	_	_	_
+1	ዛሬ	ዛሬ	NOUN	NOUN	_	8	nmod	_	Translit=zare|LTranslit=zare
+2	ሳ	ሳ	INTJ	INTJ	_	1	discourse	_	Translit=sa|LTranslit=sa
+3-4	ምንም	_	_	_	_	_	_	_	_
+3	ምን	ምንም	PRON	PRON	Typo=Yes	5	det	_	Translit=mənə|LTranslit=mənəmə
+4	ም	ም	X	_	_	3	goeswith	_	Translit=mə
+5	ምግብ	ምግብ	NOUN	NOUN	_	8	obj	_	Translit=məgəbə|LTranslit=məgəbə
+6-9	አትቀምስም	_	_	_	_	_	_	_	_
+6	ኣል	ኣል	PART	NEG	Polarity=Neg	8	advmod	_	Translit='alə|LTranslit='alə
+7	ት	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	LTranslit='əsu|Translit=tə
+8	ቀምስ	ቀምስ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=qäməsə|LTranslit=qäməsə
+9	ም	ም	PART	NCM	_	8	discourse	_	Translit=mə|LTranslit=mə
+10	?	?	PUNCT	PUNCT	_	8	punct	_	Translit=?|LTranslit=?
+
+# sent_id = data_UD-third_apple_2-x14-s16
+# text = ገንዘብ ይኖረኝ አይኖረኝ እንደሆን አላውቅም ።
+# translit = gänəzäbə jənoräňə 'äjənoräňə 'ənədähonə 'älawəqəmə .
+1	ገንዘብ	ገንዘብ	NOUN	NOUN	_	3	nsubj	_	Translit=gänəzäbə|LTranslit=gänəzäbə
+2-4	ይኖረኝ	_	_	_	_	_	_	_	_
+2	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit=jə
+3	ኖር	ኖር	VERB	VERB	Mood=Ind|VerbForm=Fin	11	ccomp	_	Translit=norə|LTranslit=norə
+4	ኧኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	3	expl	_	LTranslit='əne|Translit='ăňə
+5-8	አይኖረኝ	_	_	_	_	_	_	_	_
+5	ኣል	ኣል	PART	NEG	Polarity=Neg	7	advmod	_	Translit='alə|LTranslit='alə
+6	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit=jə
+7	ኖር	ኖር	VERB	VERB	Mood=Ind|VerbForm=Fin	3	conj	_	Translit=norə|LTranslit=norə
+8	ኧኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	7	expl	_	LTranslit='əne|Translit='ăňə
+9	እንደሆን	እንደሆን	INTJ	INTJ	_	7	discourse	_	Translit='ənədähonə|LTranslit='ənədähonə
+10-12	አላውቅም	_	_	_	_	_	_	_	_
+10	አል	አል	PART	NEG	Polarity=Neg	11	advmod	_	Translit='älə|LTranslit='älə
+11	ኣውቅ	ኣውቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='awəqə|LTranslit='awəqə
+12	ም	ም	PART	NCM	_	11	discourse	_	Translit=mə|LTranslit=mə
+13	።	።	PUNCT	PUNCT	_	11	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x02-s14
+# text = ወንዙ ደረቀ ።
+# translit = wänəzu däräqä .
+1-2	ወንዙ	_	_	_	_	_	_	_	_
+1	ወንዝ	ወንዝ	NOUN	NOUN	_	3	nsubj:pass	_	Translit=wänəzə|LTranslit=wänəzə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3-4	ደረቀ	_	_	_	_	_	_	_	_
+3	ደረቅ	ደረቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=däräqə|LTranslit=däräqə
+4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ă
+5	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 133
+# text = ሰነዱ በጠበቃው እጅ ገብቷል ።
+# translit = sənədʔu bäṭäbbäqawʷ ʔəj gəbtʷal.
+1-2	ሰነዱ	_	_	_	_	_	_	_	_
+1	ሰነድ	ሰነድ	NOUN	NOUN	_	7	nsubj	_	Translit=sənəd|LTranslit=sənəd
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit=ʔu|LTranslit=ʔu
+3-5	በጠበቃው	_	_	_	_	_	_	_	_
+3	በ	በ	ADP	ADP	_	4	case	_	Translit=bä|LTranslit=bä
+4	ጠበቃ	ጠበቃ	NOUN	NOUN	_	6	nmod	_	Translit=ṭäbbäqa|LTranslit=ṭäbbäqa
+5	ው	ው	DET	DET	_	4	det	_	Translit=wʷ|LTranslit=wʷ
+6	እጅ	እጅ	NOUN	NOUN	_	7	obj	_	Translit=ʔəj|LTranslit=ʔəj
+7-9	ገብቷል	_	_	_	_	_	_	_	_
+7	ገባ	ገባ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=gəbt|LTranslit=gəbt
+8	ቷ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit=ʔo
+9	ኣል	ኣል	AUX	AUX	_	7	aux	_	Translit=ʔäl|LTranslit=ʔäl
+10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x10-s13
+# text = በሬ ገዝቶ ፣ አርዶ በላ ።
+# translit = bäre gäzəto , 'ärədo bäla .
+1	በሬ	በሬ	NOUN	NOUN	_	2	obj	_	Translit=bäre|LTranslit=bäre
+2-3	ገዝቶ	_	_	_	_	_	_	_	_
+2	ገዝት	ገዝት	VERB	VERB	VerbForm=Conv	5	compound:svc	_	Translit=gäzətə|LTranslit=gäzətə
+3	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	LTranslit='əsu|Translit='o
+4	፣	፣	PUNCT	PUNCT	_	2	punct	_	Translit=,|LTranslit=,
+5-6	አርዶ	_	_	_	_	_	_	_	_
+5	አርድ	አርድ	VERB	VERB	VerbForm=Conv	7	compound:svc	_	Translit='ärədə|LTranslit='ärədə
+6	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit='o
+7-8	በላ	_	_	_	_	_	_	_	_
+7	በላ	በላ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=bäla|LTranslit=bäla
+8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='ă
+9	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x24-s14
+# text = ለሆድ ቁርጠት ብላበት ።
+# translit = lähodə qurəţätə bəlabätə .
+1-2	ለሆድ	_	_	_	_	_	_	_	_
+1	ለ	ለ	ADP	ADP	_	2	case	_	Translit=lä|LTranslit=lä
+2	ሆድ	ሆድ	NOUN	NOUN	_	3	obl	_	Translit=hodə|LTranslit=hodə
+3	ቁርጠት	ቁርጠት	NOUN	NOUN	_	4	obl	_	Translit=qurəţätə|LTranslit=qurəţätə
+4-6	ብላበት	_	_	_	_	_	_	_	_
+4	ብላ	ብላ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=bəla|LTranslit=bəla
+5	በ	በ	ADP	ADP	Case=Ins	4	mark	_	Translit=bä|LTranslit=bä
+6	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=tə
+7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x21-s1
+# text = መጽሐፉን መስረቁን አመነ ።
+# translit = mäcəħäfunə mäsəräqunə 'ämänä .
+1-3	መጽሐፉን	_	_	_	_	_	_	_	_
+1	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	4	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+4-6	መስረቁን	_	_	_	_	_	_	_	_
+4	መስረቅ	መስረቅ	NOUN	NOUN	VerbForm=Vnoun	7	xcomp	_	Translit=mäsəräqə|LTranslit=mäsəräqə
+5	ኡ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='u
+6	ን	ን	PART	ACC	_	4	case	_	Translit=nə|LTranslit=nə
+7-8	አመነ	_	_	_	_	_	_	_	_
+7	መን	መን	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=mänə|LTranslit=mänə
+8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='ă
+9	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x07-s7
+# text = አንድ ጊዜ ጎጃም ውስጥ አስተማሪ ነበር ።
+# translit = 'änədə gize godžamə wəsəţə 'äsətämari näbärə .
+1	አንድ	አንድ	NUM	NUM	NumType=Card	2	nummod	_	Translit='änədə|LTranslit='änədə
+2	ጊዜ	ጊዜ	NOUN	NOUN	_	5	obl	_	Translit=gize|LTranslit=gize
+3	ጎጃም	ጎጃም	PROPN	PROPN	_	5	obl	_	Translit=godžamə|LTranslit=godžamə
+4	ውስጥ	ውስጥ	ADP	ADP	_	3	case	_	Translit=wəsəţə|LTranslit=wəsəţə
+5	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
+6	ነበር	ን	AUX	AUX	_	5	cop	_	Translit=näbärə|LTranslit=nə
+7	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x18-s9
+# text = እንግዲያውማ ሁሉም ነገር ተፈርሟል ።
+# translit = 'ənəgədijawəma hulumə nägärə täfärəmălə .
+1-3	እንግዲያውማ	_	_	_	_	_	_	_	_
+1	እንግዲያ	እንግዲያ	INTJ	INTJ	_	7	discourse	_	Translit='ənəgədija|LTranslit='ənəgədija
+2	ው	ው	DET	DET	_	1	det	_	Translit=wə|LTranslit=wə
+3	ማ	ማ	INTJ	INTJ	_	1	discourse	_	Translit=ma|LTranslit=ma
+4-5	ሁሉም	_	_	_	_	_	_	_	_
+4	ሁሉ	ሁሉ	ADJ	ADJ	_	6	amod	_	Translit=hulu|LTranslit=hulu
+5	ም	ም	CCONJ	CCONJ	_	6	cc	_	Translit=mə|LTranslit=mə
+6	ነገር	ነገር	NOUN	NOUN	_	7	nsubj:pass	_	Translit=nägärə|LTranslit=nägärə
+7-9	ተፈርሟል	_	_	_	_	_	_	_	_
+7	ተፈርም	ተፈርም	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=täfärəmə|LTranslit=täfärəmə
+8	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='o
+9	ኣል	ኣል	AUX	AUX	_	7	aux	_	Translit='alə|LTranslit='alə
+10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x29-s14
+# text = ብርጭቆ ሲያጥብ ያጋጫል ።
+# translit = bərəćəqo sijaţəbə jagaćalə .
+1	ብርጭቆ	ብርጭቆ	NOUN	NOUN	_	4	obj	_	Translit=bərəćəqo|LTranslit=bərəćəqo
+2-4	ሲያጥብ	_	_	_	_	_	_	_	_
+2	ስ	ስ	SCONJ	SCONJ	_	4	mark	_	Translit=sə|LTranslit=sə
+3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit=jə
+4	አጥብ	አጥብ	VERB	VERB	Mood=Ind|VerbForm=Fin	6	advcl	_	Translit='äţəbə|LTranslit='äţəbə
+5-7	ያጋጫል	_	_	_	_	_	_	_	_
+5	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	LTranslit='əsu|Translit=jə
+6	አጋጭ	አጋጭ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='ägaćə|LTranslit='ägaćə
+7	ኣል	ኣል	AUX	AUX	_	6	aux	_	Translit='alə|LTranslit='alə
+8	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x15-s5
+# text = አዲስ አበባ ነገ ትሄዳለህ ?
+# translit = 'ädisə 'äbäba nägä təhedalähə ?
+1	አዲስ	አዲስ	NOUN	NOUN	_	2	compound	_	Translit='ädisə|LTranslit='ädisə
+2	አበባ	አበባ	NOUN	NOUN	_	5	obl	_	Translit='äbäba|LTranslit='äbäba
+3	ነገ	ነገ	ADV	ADV	_	5	advmod	_	Translit=nägä|LTranslit=nägä
+4-7	ትሄዳለህ	_	_	_	_	_	_	_	_
+4	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit=tə
+5	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=hedə|LTranslit=hedə
+6	ኣል	ኣል	AUX	AUX	_	5	aux	_	Translit='alə|LTranslit='alə
+7	ኧህ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	LTranslit='änətä|Translit='ăhə
+8	?	?	PUNCT	PUNCT	_	5	punct	_	Translit=?|LTranslit=?
+
+# sent_id = 124
+# text = ጥሩ የወንድ ሽቶ ተቀብቷል ።
+# translit = ṭəru yäwänd šəto täqäbtʷʔoʔäl .
+1	ጥሩ	ጥሩ	ADJ	ADJ	_	4	amod	_	Translit=ṭəru|LTranslit=ṭəru
+2-3	የወንድ	_	_	_	_	_	_	_	_
+2	የ	የ	ADP	ADP	_	3	case	_	Translit=yä|LTranslit=yä
+3	ወንድ	ወንድ	NOUN	NOUN	_	4	nmod	_	Translit=wänd|LTranslit=wänd
+4	ሽቶ	ሽቶ	NOUN	NOUN	_	5	nsubj	_	Translit=šəto|LTranslit=šəto
+5-7	ተቀብቷል	_	_	_	_	_	_	_	_
+5	ተቀብት	ተቀብት	VERB	VERB	_	0	root	_	Translit=täqäbtʷ|LTranslit=täqäbtʷ
+6	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit=ʔo
+7	ኣል	ኣል	AUX	AUX	_	5	aux	_	Translit=ʔäl|LTranslit=ʔäl
+8	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x30-s5
+# text = ከአንገት በላይ ህክምና ተጀመረ ።
+# translit = kä'änəgätə bälajə həkəməna tädžämärä .
+1-2	ከአንገት	_	_	_	_	_	_	_	_
+1	ከ	ከ	ADP	ADP	_	2	case	_	Translit=kä|LTranslit=kä
+2	አንገት	አንገት	NOUN	NOUN	_	4	obl	_	Translit='änəgätə|LTranslit='änəgätə
+3	በላይ	በላይ	ADP	ADP	_	2	case	_	Translit=bälajə|LTranslit=bälajə
+4	ህክምና	ህክምና	NOUN	NOUN	_	5	nsubj:pass	_	Translit=həkəməna|LTranslit=həkəməna
+5	ተጀመረ	ተጀመረ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=tädžämärä|LTranslit=tädžämärä
+6	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 176
+# text = ሰሚር ተአምረኛ ባል ሆኗል ።
+# translit = sämïr tä’ämrïñä bal honoal.
+1	ሰሚር	ሰሚር	PROPN	PROPN	_	4	nsubj	_	Translit=sämïr|LTranslit=sämïr
+2	ተአምረኛ	ተአምረኛ	ADJ	ADJ	_	3	amod	_	Translit=tä’ämrïñä|LTranslit=tä’ämrïñä
+3	ባል	ባል	NOUN	NOUN	_	4	obj	_	Translit=bal|LTranslit=bal
+4-6	ሆኗል	_	_	_	_	_	_	_	_
+4	ሆን	ሆን	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=hon|LTranslit=hon
+5	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=o
+6	ኣል	ኣል	AUX	AUX	_	4	aux	_	Translit=al|LTranslit=al
+7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x09-s11
+# text = ገንዘቡን አስመለሰ ።
+# translit = gänəzäbunə 'äsəmäläsä .
+1-3	ገንዘቡን	_	_	_	_	_	_	_	_
+1	ገንዘብ	ገንዘብ	NOUN	NOUN	_	4	obj	_	Translit=gänəzäbə|LTranslit=gänəzäbə
+2	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əsu|Translit='u
+3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+4-5	አስመለሰ	_	_	_	_	_	_	_	_
+4	አስመለስ	አስመለስ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəmäläsə|LTranslit='äsəmäläsə
+5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='ă
+6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 130
+# text = ሁሉም ጸጥ አሉ ።
+# translit = hulum ts’ät’ älʔu.
+1-2	ሁሉም	_	_	_	_	_	_	_	_
+1	ሁሉ	ሁሉ	ADJ	ADJ	_	3	amod	_	Translit=hulu|LTranslit=hulu
+2	ም	ም	CCONJ	CCONJ	_	1	cc	_	Translit=mʷ|LTranslit=mʷ
+3	ጸጥ	ጸጥ	NOUN	NOUN	_	4	nsubj	_	Translit=ts’ät’|LTranslit=ts’ät’
+4-5	አሉ	_	_	_	_	_	_	_	_
+4	አል	አል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=äl|LTranslit=äl
+5	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=ʔu
+6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x11-s3
+# text = ከሆስፒታል ወስደው ሥላሴ ቤተክርስቲያን ቀበሩት ።
+# translit = kähosəpitalə wäsədäwə śəlase betäkərəsətijanə qäbärutə .
+1-2	ከሆስፒታል	_	_	_	_	_	_	_	_
+1	ከ	ከ	ADP	ADP	_	2	case	_	Translit=kä|LTranslit=kä
+2	ሆስፒታል	ሆስፒታል	NOUN	NOUN	_	3	obl	_	Translit=hosəpitalə|LTranslit=hosəpitalə
+3-4	ወስደው	_	_	_	_	_	_	_	_
+3	ወስድ	ወስድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=wäsədə|LTranslit=wäsədə
+4	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	LTranslit='əsu|Translit='ăwə
+5	ሥላሴ	ሥላሴ	NOUN	NOUN	_	7	obl	_	Translit=śəlase|LTranslit=śəlase
+6	ቤተክርስቲያን	ቤተክርስቲያን	NOUN	NOUN	_	5	flat	_	Translit=betäkərəsətijanə|LTranslit=betäkərəsətijanə
+7-9	ቀበሩት	_	_	_	_	_	_	_	_
+7	ቀበር	ቀበር	VERB	VERB	Mood=Ind|VerbForm=Fin	3	conj	_	Translit=qäbärə|LTranslit=qäbärə
+8	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='u
+9	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	LTranslit='əsu|Translit=tə
+10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x20-s2
+# text = አዪ እሱ እዚህ ቢሆን ኖሮ ።
+# translit = 'äji 'əsu 'əzihə bihonə noro .
+1	አዪ	አዪ	INTJ	INTJ	_	7	discourse	_	Translit='äji|LTranslit='äji
+2	እሱ	እሱ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='əsu
+3	እዚህ	እዚህ	ADV	ADV	_	7	advmod	_	Translit='əzihə|LTranslit='əzihə
+4-6	ቢሆን	_	_	_	_	_	_	_	_
+4	ብ	ብ	SCONJ	SCONJ	_	6	mark	_	Translit=bə|LTranslit=bə
+5	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit=jə
+6	ሆን	ሆን	VERB	VERB	Mood=Ind|VerbForm=Fin	7	advcl	_	Translit=honə|LTranslit=honə
+7-8	ኖሮ	_	_	_	_	_	_	_	_
+7	ኖር	ኖር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=norə|LTranslit=norə
+8	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='o
+9	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x04-s3
+# text = ፍየሎቹ ወንዙን ተከተሉ ።
+# translit = fəjäloču wänəzunə täkätälu .
+1-2	ፍየሎቹ	_	_	_	_	_	_	_	_
+1	ፍየሎች	ፍየሎች	NOUN	NOUN	Number=Plur	6	nsubj	_	Translit=fəjäločə|LTranslit=fəjäločə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3-5	ወንዙን	_	_	_	_	_	_	_	_
+3	ወንዝ	ወንዝ	NOUN	NOUN	_	6	obj	_	Translit=wänəzə|LTranslit=wänəzə
+4	ኡ	ኡ	DET	DET	_	3	det	_	Translit='u|LTranslit='u
+5	ን	ን	PART	ACC	_	3	case	_	Translit=nə|LTranslit=nə
+6-7	ተከተሉ	_	_	_	_	_	_	_	_
+6	ተከተል	ተከተል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=täkätälə|LTranslit=täkätälə
+7	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='u
+8	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
+
+# sent_id = Abe002
+# text = ብዙ ጠላቶች አፍርቶልኛል ።
+# translit = bəzu ṭälatoč 'afrətolñalə.
+1	ብዙ	ብዙ	ADV	ADV	_	2	advmod	_	Translit=bəzu|LTranslit=bəzu
+2	ጠላቶች	ጠላት	NOUN	NOUN	Number=Plur	3	nsubj	_	Translit=ṭälatoč|LTranslit=ṭälat
+3-7	አፍርቶልኛል	_	_	_	_	_	_	_	_
+3	አፍረ	አፍረ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='afrətolñalə|LTranslit='afrə
+4	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='o
+5	ል	ል	ADP	ADP	Case=Ben	3	case	_	Translit=lə|LTranslit=lə
+6	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	3	obj	_	LTranslit='əne|Translit=ňə
+7	ኣል	ኣል	AUX	AUX	_	3	aux	_	Translit='alə|LTranslit='alə
+8	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x17-s17
+# text = አምስቱም ተበላ ።
+# translit = 'äməsətumə täbäla .
+1-3	አምስቱም	_	_	_	_	_	_	_	_
+1	አምስት	አምስት	NUM	NUM	NumType=Card	4	nsubj	_	Translit='äməsətə|LTranslit='äməsətə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3	ም	ም	CCONJ	CCONJ	_	1	cc	_	Translit=mə|LTranslit=mə
+4-5	ተበላ	_	_	_	_	_	_	_	_
+4	ተበላ	ተበላ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=täbäla|LTranslit=täbäla
+5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ă
+6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x05-s3
+# text = መሄዷ የባሏን ልብ ሰበረው ።
+# translit = mähedă jäbalănə ləbə säbäräwə .
+1-2	መሄዷ	_	_	_	_	_	_	_	_
+1	መሄድ	መሄድ	NOUN	NOUN	VerbForm=Vnoun	8	nsubj	_	Translit=mähedə|LTranslit=mähedə
+2	ዋ	እሱ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əsu|Translit=wa
+3-6	የባሏን	_	_	_	_	_	_	_	_
+3	የ	የ	ADP	ADP	_	4	case	_	Translit=jä|LTranslit=jä
+4	ባል	ባል	NOUN	NOUN	_	7	acl	_	Translit=balə|LTranslit=balə
+5	ዋ	እሱ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod	_	LTranslit='əsu|Translit=wa
+6	ን	ን	PART	ACC	_	4	case	_	Translit=nə|LTranslit=nə
+7	ልብ	ልብ	NOUN	NOUN	_	8	obj	_	Translit=ləbə|LTranslit=ləbə
+8-10	ሰበረው	_	_	_	_	_	_	_	_
+8	ሰበር	ሰበር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=säbärə|LTranslit=säbärə
+9	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ă
+10	ው	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit=wə
+11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x16-s10
+# text = የዘላለምን ሒወትን እንዳገኝ ምን ላድርግ ?
+# translit = jäzälalämənə ħiwätənə 'ənədagäňə mənə ladərəgə ?
+1-3	የዘላለምን	_	_	_	_	_	_	_	_
+1	የ	የ	ADP	ADP	_	2	case	_	Translit=jä|LTranslit=jä
+2	ዘላለም	ዘላለም	NOUN	NOUN	_	4	nmod	_	Translit=zälalämə|LTranslit=zälalämə
+3	ን	ን	PART	ACC	_	2	case	_	Translit=nə|LTranslit=nə
+4-5	ሒወትን	_	_	_	_	_	_	_	_
+4	ሒወት	ሒወት	NOUN	NOUN	_	7	obj	_	Translit=ħiwätə|LTranslit=ħiwätə
+5	ን	ን	PART	ACC	_	4	case	_	Translit=nə|LTranslit=nə
+6-7	እንዳገኝ	_	_	_	_	_	_	_	_
+6	እንደ	እንደ	SCONJ	SCONJ	_	7	mark	_	Translit='ənədä|LTranslit='ənədä
+7	ኣገኝ	ኣገኝ	VERB	VERB	Mood=Ind|VerbForm=Fin	10	ccomp	_	Translit='agäňə|LTranslit='agäňə
+8	ምን	ምን	PRON	PRON	_	10	obj	_	Translit=mənə|LTranslit=mənə
+9-10	ላድርግ	_	_	_	_	_	_	_	_
+9	ል	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	LTranslit='əne|Translit=lə
+10	ኣድርግ	ኣድርግ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='adərəgə|LTranslit='adərəgə
+11	?	?	PUNCT	PUNCT	_	10	punct	_	Translit=?|LTranslit=?
+
+# sent_id = data_UD-x08-s14
+# text = ዳኛው ለአስቴር ፈረዱላት ።
+# translit = daňawə lä'äsəterə färädulatə .
+1-2	ዳኛው	_	_	_	_	_	_	_	_
+1	ዳኛ	ዳኛ	NOUN	NOUN	_	5	nsubj	_	Translit=daňa|LTranslit=daňa
+2	ው	ው	DET	DET	_	1	det	_	Translit=wə|LTranslit=wə
+3-4	ለአስቴር	_	_	_	_	_	_	_	_
+3	ለ	ለ	ADP	ADP	_	4	case	_	Translit=lä|LTranslit=lä
+4	አስቴር	አስቴር	PROPN	PROPN	_	5	obl	_	Translit='äsəterə|LTranslit='äsəterə
+5-8	ፈረዱላት	_	_	_	_	_	_	_	_
+5	ፈረድ	ፈረድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=färädə|LTranslit=färädə
+6	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='u
+7	ል	ል	ADP	ADP	_	5	case	_	Translit=lə|LTranslit=lə
+8	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='atə
+9	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x02-s2
+# text = ምነው እውነቱን ቢናገር ኖሮ ።
+# translit = mənäwə 'əwənätunə binagärə noro .
+1	ምነው	ምነው	INTJ	INTJ	_	2	discourse	_	Translit=mənäwə|LTranslit=mənäwə
+2-4	እውነቱን	_	_	_	_	_	_	_	_
+2	እውነት	እውነት	NOUN	NOUN	_	7	obj	_	Translit='əwənätə|LTranslit='əwənätə
+3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
+4	ን	ን	PART	ACC	_	2	case	_	Translit=nə|LTranslit=nə
+5-7	ቢናገር	_	_	_	_	_	_	_	_
+5	ብ	ብ	SCONJ	SCONJ	_	7	mark	_	Translit=bə|LTranslit=bə
+6	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit=jə
+7	ናገር	ናገር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=nagärə|LTranslit=nagärə
+8-9	ኖሮ	_	_	_	_	_	_	_	_
+8	ኖር	ኖር	AUX	AUX	_	7	aux	_	Translit=norə|LTranslit=norə
+9	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='o
+10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x01-s16
+# text = ካሳ አስቴር ወደ ትምህርት ቤት እንደ ሄደች ምሳውን በላ ።
+# translit = kasa 'äsəterə wädä təməhərətə betə 'ənədä hedäčə məsawənə bäla .
+1	ካሳ	ካሳ	PROPN	PROPN	_	12	nsubj	_	Translit=kasa|LTranslit=kasa
+2	አስቴር	አስቴር	PROPN	PROPN	_	7	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
+3	ወደ	ወደ	ADP	ADP	_	5	case	_	Translit=wädä|LTranslit=wädä
+4	ትምህርት	ትምህርት	NOUN	NOUN	_	5	compound	_	Translit=təməhərətə|LTranslit=təməhərətə
+5	ቤት	ቤት	NOUN	NOUN	_	7	obl	_	Translit=betə|LTranslit=betə
+6	እንደ	እንደ	SCONJ	SCONJ	_	7	mark	_	Translit='ənədä|LTranslit='ənədä
+7-8	ሄደች	_	_	_	_	_	_	_	_
+7	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	12	advcl	_	Translit=hedə|LTranslit=hedə
+8	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ăčə
+9-11	ምሳውን	_	_	_	_	_	_	_	_
+9	ምሳ	ምሳ	NOUN	NOUN	_	12	obj	_	Translit=məsa|LTranslit=məsa
+10	ው	ው	DET	DET	_	9	det	_	Translit=wə|LTranslit=wə
+11	ን	ን	PART	ACC	_	9	case	_	Translit=nə|LTranslit=nə
+12-13	በላ	_	_	_	_	_	_	_	_
+12	በላ	በላ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=bäla|LTranslit=bäla
+13	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	LTranslit='əsu|Translit='ă
+14	።	።	PUNCT	PUNCT	_	12	punct	_	Translit=.|LTranslit=.
+
+# sent_id = amh092
+# text = በተድላ ዕድል ግን በእጅጉ አዘንሁ ።
+# translit = bätädəla 'ədəl gən bä'əjjəgu 'azänəhu .
+1-2	በተድላ	_	_	_	_	_	_	_	_
+1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
+2	ተድላ	ተድላ	NOUN	NOUN	_	3	obl	_	Translit=tädəla|LTranslit=tädəla
+3	ዕድል	ዕድል	NOUN	NOUN	_	8	obl	_	Translit='ədəl|LTranslit='ədəl
+4	ግን	ግን	SCONJ	SCONJ	_	8	cc	_	Translit=gən|LTranslit=gən
+5-7	በእጅጉ	_	_	_	_	_	_	_	_
+5	በ	በ	ADP	ADP	_	6	case	_	Translit=bä|LTranslit=bä
+6	እጅግ	እጅግ	ADV	ADV	Degree=Abs	8	advmod	_	Translit='əjjəgu|LTranslit='əjjəg
+7	ኡ	ኡ	DET	DET	_	6	det	_	Translit='u|LTranslit='u
+8-9	አዘንሁ	_	_	_	_	_	_	_	_
+8	አዘን	አዘን	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=zänəhu|LTranslit=zänə
+9	ሁ	እኔ	PRON	SUBJC	Gender=Neut|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	LTranslit='əne|Translit=hu
+10	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-Sleepwalking-26-s5
+# text = ገመዱን አስረዘመው ።
+# translit = gämädunə 'äsəräzämäwə .
+1-3	ገመዱን	_	_	_	_	_	_	_	_
+1	ገመድ	ገመድ	NOUN	NOUN	_	4	obj	_	Translit=gämädə|LTranslit=gämädə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+4-6	አስረዘመው	_	_	_	_	_	_	_	_
+4	አስረዘም	አስረዘም	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəräzämə|LTranslit='äsəräzämə
+5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='ă
+6	ው	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	LTranslit='əsu|Translit=wə
+7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x15-s12
+# text = በል ብላት !
+# translit = bälə bəlatə !
+1	በል	በል	INTJ	INTJ	_	2	discourse	_	Translit=bälə|LTranslit=bälə
+2-3	ብላት	_	_	_	_	_	_	_	_
+2	ብላ	ብላ	VERB	VERB	Mood=Jus|VerbForm=Fin	0	root	_	Translit=bəla|LTranslit=bəla
+3	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	LTranslit='əsu|Translit='atə
+4	!	!	PUNCT	PUNCT	_	2	punct	_	Translit=!|LTranslit=!
+
+# sent_id = data_UD-x00-s14
+# text = ወደቤተ መጻሕፍት የምትሄድ ከሆነ ይህን መጽሐፍ መልስልኝ ።
+# translit = wädäbetä mäcaħəfətə jämətəhedə kähonä jəhənə mäcəħäfə mäləsələňə .
+1-2	ወደቤተ	_	_	_	_	_	_	_	_
+1	ወደ	ወደ	ADP	ADP	_	2	case	_	Translit=wädä|LTranslit=wädä
+2	ቤተ	ቤተ	NOUN	NOUN	_	3	compound	_	Translit=betä|LTranslit=betä
+3	መጻሕፍት	መጻሕፍት	NOUN	NOUN	_	7	nmod	_	Translit=mäcaħəfətə|LTranslit=mäcaħəfətə
+4-7	የምትሄድ	_	_	_	_	_	_	_	_
+4	የ	የ	PART	RLP	_	7	mark	_	Translit=jä|LTranslit=jä
+5	እም	እም	PART	IRLP	_	7	mark	_	Translit='əmə|LTranslit='əmə
+6	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit=tə
+7	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	13	advcl	_	Translit=hedə|LTranslit=hedə
+8-10	ከሆነ	_	_	_	_	_	_	_	_
+8	ከ	ከ	ADP	ADP	_	9	mark	_	Translit=kä|LTranslit=kä
+9	ሆን	ሆን	VERB	VERB	Mood=Ind|VerbForm=Fin	7	advcl	_	Translit=honə|LTranslit=honə
+10	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit='ă
+11	ይህን	ይህን	DET	DET	_	12	det	_	Translit=jəhənə|LTranslit=jəhənə
+12	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	13	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
+13-15	መልስልኝ	_	_	_	_	_	_	_	_
+13	መልስ	መልስ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=mäləsə|LTranslit=mäləsə
+14	ል	ል	ADP	ADP	Case=Ben	13	case	_	Translit=lə|LTranslit=lə
+15	ኝ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	LTranslit='əne|Translit=ňə
+16	።	።	PUNCT	PUNCT	_	13	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x29-s19
+# text = እስከ ነገ ብትቆይስ ?
+# translit = 'əsəkä nägä bətəqojəsə ?
+1	እስከ	እስከ	ADP	ADP	_	2	case	_	Translit='əsəkä|LTranslit='əsəkä
+2	ነገ	ነገ	NOUN	NOUN	_	5	obl	_	Translit=nägä|LTranslit=nägä
+3-6	ብትቆይስ	_	_	_	_	_	_	_	_
+3	ብ	ብ	SCONJ	SCONJ	_	5	mark	_	Translit=bə|LTranslit=bə
+4	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit=tə
+5	ቆይ	ቆይ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=qojə|LTranslit=qojə
+6	ስ	ስ	INTJ	INTJ	_	5	discourse	_	Translit=sə|LTranslit=sə
+7	?	?	PUNCT	PUNCT	_	5	punct	_	Translit=?|LTranslit=?
+
+# sent_id = data_UD-x19-s4
+# text = ራሱን ከተመታ ወዲህ ማስታወስ አቃተው ።
+# translit = rasunə kätämäta wädihə masətawäsə 'äqatäwə .
+1-3	ራሱን	_	_	_	_	_	_	_	_
+1	ራስ	ራስ	NOUN	NOUN	_	5	nsubj:pass	_	Translit=rasə|LTranslit=rasə
+2	ኡ	እኔ	PRON	POSM	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əne|Translit='u
+3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+4-6	ከተመታ	_	_	_	_	_	_	_	_
+4	ከ	ከ	ADP	ADP	_	5	mark	_	Translit=kä|LTranslit=kä
+5	ተመታ	ተመታ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	9	advcl	_	Translit=tämäta|LTranslit=tämäta
+6	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='ă
+7	ወዲህ	ወዲህ	ADP	ADP	_	5	mark	_	Translit=wädihə|LTranslit=wädihə
+8	ማስታወስ	ማስታወስ	NOUN	NOUN	_	9	nsubj	_	Translit=masətawäsə|LTranslit=masətawäsə
+9-10	አቃተው	_	_	_	_	_	_	_	_
+9	አቃት	አቃት	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='äqatə|LTranslit='äqatə
+10	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit='ăwə
+11	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x16-s2
+# text = የአስቴር ቤት የመስራት አላማ ከሸፈ ።
+# translit = jä'äsəterə betə jämäsəratə 'älama käšäfä .
+1-2	የአስቴር	_	_	_	_	_	_	_	_
+1	የ	የ	ADP	ADP	_	2	case	_	Translit=jä|LTranslit=jä
+2	አስቴር	አስቴር	PROPN	PROPN	_	5	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
+3	ቤት	ቤት	NOUN	NOUN	_	5	obj	_	Translit=betə|LTranslit=betə
+4-5	የመስራት	_	_	_	_	_	_	_	_
+4	የ	የ	PART	RLP	_	5	mark	_	Translit=jä|LTranslit=jä
+5	መስራት	መስራት	NOUN	NOUN	VerbForm=Vnoun	6	acl	_	Translit=mäsəratə|LTranslit=mäsəratə
+6	አላማ	አላማ	NOUN	NOUN	_	7	csubj	_	Translit='älama|LTranslit='älama
+7-8	ከሸፈ	_	_	_	_	_	_	_	_
+7	ከሸፍ	ከሸፍ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=käšäfə|LTranslit=käšäfə
+8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ă
+9	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x08-s2
+# text = ለበዓሉ ጸጉሯን ሹሩባ ተሠራች ።
+# translit = läbä`alu cägurănə šuruba täśäračə .
+1-3	ለበዓሉ	_	_	_	_	_	_	_	_
+1	ለ	ለ	ADP	ADP	_	2	case	_	Translit=lä|LTranslit=lä
+2	በዓል	በዓል	NOUN	NOUN	_	8	obl	_	Translit=bä`alə|LTranslit=bä`alə
+3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
+4-6	ጸጉሯን	_	_	_	_	_	_	_	_
+4	ጸጉር	ጸጉር	NOUN	NOUN	_	8	obj	_	Translit=cägurə|LTranslit=cägurə
+5	ዋ	እሱ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod	_	LTranslit='əsu|Translit=wa
+6	ን	ን	PART	ACC	_	4	case	_	Translit=nə|LTranslit=nə
+7	ሹሩባ	ሹሩባ	NOUN	NOUN	_	8	nmod	_	Translit=šuruba|LTranslit=šuruba
+8-9	ተሠራች	_	_	_	_	_	_	_	_
+8	ተሠር	ተሠር	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=täśärə|LTranslit=täśärə
+9	ኣች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	LTranslit='əsu|Translit='ačə
+10	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x16-s3
+# text = ልጁ የሸጠው መጽሐፍ ትልቅ ነው ።
+# translit = lədžu jäšäţäwə mäcəħäfə tələqə näwə .
+1-2	ልጁ	_	_	_	_	_	_	_	_
+1	ልጅ	ልጅ	NOUN	NOUN	_	4	nsubj	_	Translit=lədžə|LTranslit=lədžə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3-6	የሸጠው	_	_	_	_	_	_	_	_
+3	የ	የ	PART	RLP	_	4	mark	_	Translit=jä|LTranslit=jä
+4	ሸጥ	ሸጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	7	acl	_	Translit=šäţə|LTranslit=šäţə
+5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ă
+6	ው	ው	DET	DET	_	7	det	_	Translit=wə|LTranslit=wə
+7	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	8	nsubj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
+8	ትልቅ	ትልቅ	ADJ	ADJ	_	0	root	_	Translit=tələqə|LTranslit=tələqə
+9-10	ነው	_	_	_	_	_	_	_	_
+9	ን	ን	AUX	AUX	_	8	cop	_	Translit=nə|LTranslit=nə
+10	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
+11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x26-s15
+# text = ሦስት ቀን ይኬድና ባራተኛው ይደረሳል ።
+# translit = śosətə qänə jəkedəna baratäňawə jədäräsalə .
+1	ሦስት	ሦስት	NUM	NUM	NumType=Card	2	nummod	_	Translit=śosətə|LTranslit=śosətə
+2	ቀን	ቀን	NOUN	NOUN	_	4	obl	_	Translit=qänə|LTranslit=qänə
+3-5	ይኬድና	_	_	_	_	_	_	_	_
+3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit=jə
+4	ኬድ	ኬድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=kedə|LTranslit=kedə
+5	ና	ና	CCONJ	CCONJ	_	4	cc	_	Translit=na|LTranslit=na
+6-8	ባራተኛው	_	_	_	_	_	_	_	_
+6	በ	በ	ADP	ADP	_	7	case	_	Translit=bä|LTranslit=bä
+7	አራተኛ	አራተኛ	NOUN	NOUN	_	10	obl	_	Translit='äratäňa|LTranslit='äratäňa
+8	ው	ው	DET	DET	_	7	det	_	Translit=wə|LTranslit=wə
+9-11	ይደረሳል	_	_	_	_	_	_	_	_
+9	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	LTranslit='əsu|Translit=jə
+10	ደረስ	ደረስ	VERB	VERB	Mood=Ind|VerbForm=Fin	4	conj	_	Translit=däräsə|LTranslit=däräsə
+11	ኣል	ኣል	AUX	AUX	_	10	aux	_	Translit='alə|LTranslit='alə
+12	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 071
+# text = አብዛኛው ተማሪ የአጠናን ስልት የለውም ።
+# translit = ʔäbzanäw tämari yä ʔäṭänan sɨlɨt yäläwäwim.
+1-2	አብዛኛው	_	_	_	_	_	_	_	_
+1	አብዛኛ	አብዛኛ	ADJ	ADJ	_	3	amod	_	Translit=Abəzäñña|LTranslit=Abəzäñña
+2	ው	ው	DET	DET	_	3	det	_	Translit=wu|LTranslit=wu
+3	ተማሪ	ተማሪ	NOUN	NOUN	_	7	obj	_	Translit=tämari|LTranslit=tämari
+4-5	የአጠናን	_	_	_	_	_	_	_	_
+4	የ	የ	ADP	ADP	_	5	case	_	Translit=yä|LTranslit=yä
+5	አጠናን	አጠናን	NOUN	NOUN	VerbForm=Vnoun	6	acl	_	Translit=at’änan|LTranslit=at’änan
+6	ስልት	ስልት	NOUN	NOUN	_	7	advmod	_	Translit=sələt|LTranslit=sələt
+7-9	የለውም	_	_	_	_	_	_	_	_
+7	የል	የል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=yäl|LTranslit=yäl
+8	ኧው	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit=ḥew
+9	ም	ም	PART	NCM	_	7	discourse	_	Translit=m|LTranslit=m
+10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=?|LTranslit=?
+
+# sent_id = data_UD-x02-s9
+# text = አስቴር ወደ ትምህርት ቤት የሄደች ይመስላል ።
+# translit = 'äsəterə wädä təməhərətə betə jähedäčə jəmäsəlalə .
+1	አስቴር	አስቴር	PROPN	PROPN	_	6	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
+2	ወደ	ወደ	ADP	ADP	_	3	case	_	Translit=wädä|LTranslit=wädä
+3	ትምህርት	ትምህርት	NOUN	NOUN	_	4	compound	_	Translit=təməhərətə|LTranslit=təməhərətə
+4	ቤት	ቤት	NOUN	NOUN	_	6	obl	_	Translit=betə|LTranslit=betə
+5-7	የሄደች	_	_	_	_	_	_	_	_
+5	የ	የ	SCONJ	SCONJ	_	6	mark	_	Translit=jä|LTranslit=jä
+6	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	9	ccomp	_	Translit=hedə|LTranslit=hedə
+7	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='ăčə
+8-10	ይመስላል	_	_	_	_	_	_	_	_
+8	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit=jə
+9	መስል	መስል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=mäsələ|LTranslit=mäsələ
+10	ኣል	ኣል	AUX	AUX	_	9	aux	_	Translit='alə|LTranslit='alə
+11	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x25-s12
+# text = የተጣሉበትን ሳታውቅ ጣልቃ አትግባ ።
+# translit = jätäţalubätənə satawəqə ţaləqa 'ätəgəba .
+1-6	የተጣሉበትን	_	_	_	_	_	_	_	_
+1	የ	የ	PART	RLP	_	2	mark	_	Translit=jä|LTranslit=jä
+2	ተጣል	ተጣል	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	10	xcomp	_	Translit=täţalə|LTranslit=täţalə
+3	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	LTranslit='əsu|Translit='u
+4	በ	በ	ADP	ADP	_	2	mark	_	Translit=bä|LTranslit=bä
+5	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit=tə
+6	ን	ን	PART	ACC	_	2	mark	_	Translit=nə|LTranslit=nə
+7-10	ሳታውቅ	_	_	_	_	_	_	_	_
+7	ስ	ስ	SCONJ	SCONJ	_	10	mark	_	Translit=sə|LTranslit=sə
+8	ኣል	ኣል	PART	NEG	Polarity=Neg	10	advmod	_	Translit='alə|LTranslit='alə
+9	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	LTranslit='əsu|Translit=tə
+10	ኣውቅ	ኣውቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	12	advcl	_	Translit='awəqə|LTranslit='awəqə
+11	ጣልቃ	ጣልቃ	ADV	ADV	_	14	advmod	_	Translit=ţaləqa|LTranslit=ţaləqa
+12-14	አትግባ	_	_	_	_	_	_	_	_
+12	ኣል	ኣል	PART	NEG	Polarity=Neg	14	advmod	_	Translit='alə|LTranslit='alə
+13	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	LTranslit='əsu|Translit=tə
+14	ግባ	ግባ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=gəba|LTranslit=gəba
+15	።	።	PUNCT	PUNCT	_	14	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x00-s15
+# text = እናቱን በማየቱ በጣም ደስ አለው ።
+# translit = 'ənatunə bämajätu bäţamə däsə 'äläwə .
+1-3	እናቱን	_	_	_	_	_	_	_	_
+1	እናት	እናት	NOUN	NOUN	_	5	obj	_	Translit='ənatə|LTranslit='ənatə
+2	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əsu|Translit='u
+3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+4-6	በማየቱ	_	_	_	_	_	_	_	_
+4	በ	በ	SCONJ	SCONJ	_	5	mark	_	Translit=bä|LTranslit=bä
+5	ማየት	ማየት	NOUN	NOUN	VerbForm=Vnoun	9	advcl	_	Translit=majätə|LTranslit=majätə
+6	ኡ	ኡ	DET	DET	_	5	det	_	Translit='u|LTranslit='u
+7	በጣም	በጣም	ADV	ADV	_	9	advmod	_	Translit=bäţamə|LTranslit=bäţamə
+8	ደስ	ደስ	VERB	VERB	Mood=Ind|VerbForm=Fin	9	compound	_	Translit=däsə|LTranslit=däsə
+9-10	አለው	_	_	_	_	_	_	_	_
+9	ኣል	ኣል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='alə|LTranslit='alə
+10	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LTranslit='əsu|Translit='ăwə
+11	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x17-s20
+# text = ሦስት ሰዎች መጡ እነሱም ታደሰ ፣ ኃይሉና ተፈራ ናቸው ።
+# translit = śosətə säwočə mäţu 'ənäsumə tadäsä , chajəluna täfära načäwə .
+1	ሦስት	ሦስት	NUM	NUM	NumType=Card	2	nummod	_	Translit=śosətə|LTranslit=śosətə
+2	ሰዎች	ሰዎች	NOUN	NOUN	_	3	nsubj	_	Translit=säwočə|LTranslit=säwočə
+3-4	መጡ	_	_	_	_	_	_	_	_
+3	መጥ	መጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=mäţə|LTranslit=mäţə
+4	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='u
+5-6	እነሱም	_	_	_	_	_	_	_	_
+5	እነሱ	እሱ	PRON	PRON	Number=Plur|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='ənäsu
+6	ም	ም	CCONJ	CCONJ	_	3	cc	_	Translit=mə|LTranslit=mə
+7	ታደሰ	ታደሰ	PROPN	PROPN	_	3	conj	_	Translit=tadäsä|LTranslit=tadäsä
+8	፣	፣	PUNCT	PUNCT	_	7	punct	_	Translit=,|LTranslit=,
+9-10	ኃይሉና	_	_	_	_	_	_	_	_
+9	ኃይሉ	ኃይሉ	PROPN	PROPN	_	7	conj	_	Translit=chajəlu|LTranslit=chajəlu
+10	ና	ና	CCONJ	CCONJ	_	7	cc	_	Translit=na|LTranslit=na
+11	ተፈራ	ተፈራ	PROPN	PROPN	_	7	conj	_	Translit=täfära|LTranslit=täfära
+12-13	ናቸው	_	_	_	_	_	_	_	_
+12	ን	ን	AUX	AUX	_	7	aux	_	Translit=nə|LTranslit=nə
+13	ኣቸው	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ačäwə
+14	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x26-s8
+# text = ከበቀለ ሥራ የአልማዝ ይሻላል ።
+# translit = käbäqälä śəra jä'äləmazə jəšalalə .
+1-2	ከበቀለ	_	_	_	_	_	_	_	_
+1	ከ	ከ	ADP	ADP	_	2	case	_	Translit=kä|LTranslit=kä
+2	በቀለ	በቀለ	PROPN	PROPN	_	3	obl	_	Translit=bäqälä|LTranslit=bäqälä
+3	ሥራ	ሥራ	NOUN	NOUN	_	7	obl	_	Translit=śəra|LTranslit=śəra
+4-5	የአልማዝ	_	_	_	_	_	_	_	_
+4	የ	የ	ADP	ADP	_	5	case	_	Translit=jä|LTranslit=jä
+5	አልማዝ	አልማዝ	PROPN	PROPN	_	7	obl	_	Translit='äləmazə|LTranslit='äləmazə
+6-8	ይሻላል	_	_	_	_	_	_	_	_
+6	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit=jə
+7	ተሻል	ተሻል	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=täšalə|LTranslit=täšalə
+8	ኣል	ኣል	AUX	AUX	_	7	aux	_	Translit='alə|LTranslit='alə
+9	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x07-s8
+# text = አስቴር ቤት እየሰራች ነው ።
+# translit = 'äsəterə betə 'əjäsäračə näwə .
+1	አስቴር	አስቴር	PROPN	PROPN	_	4	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
+2	ቤት	ቤት	NOUN	NOUN	_	4	obj	_	Translit=betə|LTranslit=betə
+3-5	እየሰራች	_	_	_	_	_	_	_	_
+3	እየ	እየ	AUX	AUX	_	4	aux	_	Translit='əjä|LTranslit='əjä
+4	ሰር	ሰር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=särə|LTranslit=särə
+5	ኣች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ačə
+6-7	ነው	_	_	_	_	_	_	_	_
+6	ን	ን	AUX	AUX	_	4	aux	_	Translit=nə|LTranslit=nə
+7	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ăwə
+8	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x12-s18
+# text = ልጆቹ ባለጌ ሆኑ ።
+# translit = lədžoču baläge honu .
+1-2	ልጆቹ	_	_	_	_	_	_	_	_
+1	ልጆች	ልጆች	NOUN	NOUN	_	3	nsubj	_	Translit=lədžočə|LTranslit=lədžočə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3	ባለጌ	ባለጌ	ADJ	ADJ	_	0	root	_	Translit=baläge|LTranslit=baläge
+4-5	ሆኑ	_	_	_	_	_	_	_	_
+4	ሆን	ሆን	AUX	AUX	_	3	aux	_	Translit=honə|LTranslit=honə
+5	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='u
+6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 199
+# text = ጋዜጠኛ አይናደድም ።
+# translit = gazeeṭäñña ʾäl yɨtänädadɨm .
+1	ጋዜጠኛ	ጋዜጠኛ	NOUN	NOUN	_	4	obj	_	Translit=gazeeṭäñña|LTranslit=gazeeṭäñña
+2-5	አይናደድም	_	_	_	_	_	_	_	_
+2	አል	ኣል	PART	NEG	Polarity=Neg	4	advmod	_	Translit=ʾäl|LTranslit=ʾäl
+3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit=yɨ
+4	ተናደድ	ተናደድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=tänädad|LTranslit=tänädad
+5	ም	ም	PART	NCM	_	4	discourse	_	Translit=mɨ|LTranslit=mɨ
+6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 197
+# text = ህጻናት አገረኛ የሆነ መዝናኛ አይቀርብላቸውም ።
+# translit = hɨṣanat ʾägäräɲa yähono mäznanya ʾayəqärəblʾäčäwmə .
+1	ህጻናት	ህጻናት	NOUN	NOUN	_	8	nsubj	_	Translit=hɨṣanat|LTranslit=hɨṣanat
+2	አገረኛ	አገረኛ	NOUN	NOUN	_	4	obj	_	Translit=ʾägäräɲa|LTranslit=ʾägäräɲa
+3-4	የሆነ	_	_	_	_	_	_	_	_
+3	የ	የ	PART	RLP	_	4	mark	_	Translit=yä|LTranslit=yä
+4	ሆነ	ሆነ	VERB	VERB	_	8	ccomp	_	Translit=hono|LTranslit=hono
+5	መዝናኛ	መዝናኛ	NOUN	NOUN	_	8	obj	_	Translit=mäznanya|LTranslit=mznnya
+6-11	አይቀርብላቸውም	_	_	_	_	_	_	_	_
+6	አል	ኣል	PART	NEG	Polarity=Neg	8	advmod	_	Translit=ʾal|LTranslit=ʾal
+7	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit=yə
+8	ቀርብ	ቀርብ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=qärəb|LTranslit=qärəb
+9	ል	ል	ADP	ADP	_	8	case	_	Translit=l|LTranslit=l
+10	ኣቸው	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit=ʾäčäw
+11	ም	ም	PART	NCM	_	8	discourse	_	Translit=mə|LTranslit=mə
+12	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x05-s18
+# text = እንደምመጣ ለአልማዝ ነገርኩዋት ።
+# translit = 'ənədäməmäţa lä'äləmazə nägärəkuwatə .
+1-5	እንደምመጣ	_	_	_	_	_	_	_	_
+1	እንደ	እንደ	ADP	ADP	_	4	mark	_	Translit='ənədä|LTranslit='ənədä
+2	እም	እም	PART	IRLP	_	4	mark	_	Translit='əmə|LTranslit='əmə
+3	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	LTranslit='əne|Translit='ə
+4	መጥ	መጥኣ	VERB	VERB	Mood=Ind|Typo=Yes|VerbForm=Fin	8	advcl	_	Translit=mäţə|LTranslit=mäţə'a
+5	ኣ	ኣ	X	_	_	4	goeswith	_	Translit='a
+6-7	ለአልማዝ	_	_	_	_	_	_	_	_
+6	ለ	ለ	ADP	ADP	_	7	case	_	Translit=lä|LTranslit=lä
+7	አልማዝ	አልማዝ	PROPN	PROPN	_	8	obl	_	Translit='äləmazə|LTranslit='äləmazə
+8-10	ነገርኩዋት	_	_	_	_	_	_	_	_
+8	ነገር	ነገር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=nägärə|LTranslit=nägärə
+9	ኩ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	LTranslit='əne|Translit=ku
+10	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='atə
+11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x03-s11
+# text = መንገዱ ሁለት ቀን ይፈጃል ።
+# translit = mänəgädu hulätə qänə jəfädžalə .
+1-2	መንገዱ	_	_	_	_	_	_	_	_
+1	መንገድ	መንገድ	NOUN	NOUN	_	6	nsubj	_	Translit=mänəgädə|LTranslit=mänəgädə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3	ሁለት	ሁለት	NUM	NUM	NumType=Card	4	nummod	_	Translit=hulätə|LTranslit=hulätə
+4	ቀን	ቀን	NOUN	NOUN	_	6	xcomp	_	Translit=qänə|LTranslit=qänə
+5-7	ይፈጃል	_	_	_	_	_	_	_	_
+5	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit=jə
+6	ፈጅ	ፈጅ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=fädžə|LTranslit=fädžə
+7	ኣል	ኣል	AUX	AUX	_	6	aux	_	Translit='alə|LTranslit='alə
+8	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x13-s13
+# text = ካሳ ለወታደሮች ገንዘቡን ሰጠቻው ።
+# translit = kasa läwätadäročə gänəzäbunə säţäčawə .
+1	ካሳ	ካሳ	PROPN	PROPN	_	7	nsubj	_	Translit=kasa|LTranslit=kasa
+2-3	ለወታደሮች	_	_	_	_	_	_	_	_
+2	ለ	ለ	ADP	ADP	_	3	case	_	Translit=lä|LTranslit=lä
+3	ወታደሮች	ወታደሮች	NOUN	NOUN	Number=Plur	7	obl	_	Translit=wätadäročə|LTranslit=wätadäročə
+4-6	ገንዘቡን	_	_	_	_	_	_	_	_
+4	ገንዘብ	ገንዘብ	NOUN	NOUN	_	7	obj	_	Translit=gänəzäbə|LTranslit=gänəzäbə
+5	ኡ	ኡ	DET	DET	_	4	det	_	Translit='u|LTranslit='u
+6	ን	ን	PART	ACC	_	4	case	_	Translit=nə|LTranslit=nə
+7-9	ሰጠቻው	_	_	_	_	_	_	_	_
+7	ሰጥ	ሰጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=säţə|LTranslit=säţə
+8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ă
+9	ኣቸው	እሱ	PRON	OBJC	Number=Plur|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ačäwə
+10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = amh074
+# text = ነገሬን ሁሉ ለእግዚሐብሄር አሳልፌ ሰጠሁ ።
+1-3	ነገሬን	_	_	_	_	_	_	_	_
+1	ነገር	ነገር	NOUN	NOUN	Case=Acc|Number=Sing|Poss=1Sg	7	obj	_	Translit=nägärēn|LTranslit=nägär
+2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əne|Translit='e
+3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+4	ሁሉ	ሁሉ	DET	DET	PronType=Tot	1	det	_	Translit=hulu|LTranslit=hulu
+5-6	ለእግዚሐብሄር	_	_	_	_	_	_	_	_
+5	ለ	ለ	ADP	ADP	_	2	case	_	Translit=lä|LTranslit=lä
+6	እግዚሐብሄር	እግዚሐብሄር	PROPN	PROPN	_	7	obl	_	Translit=lä'əgzi'äbəhēr|LTranslit='əgzi'äbəhēr
+7-8	አሳልፌ	_	_	_	_	_	_	_	_
+7	አሳልፌ	አሳልፋ	VERB	VERB	Aspect=Perf|Tense=Past|VerbForm=Conv	9	advcl	_	Translit='asalfē|LTranslit='asalfä
+8	ኤ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	LTranslit='əne|Translit='e
+9-10	ሰጠሁ	_	_	_	_	_	_	_	_
+9	ሰጥ	ሰጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=säţə|LTranslit=säţə
+10	ኧሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	LTranslit='əne|Translit='ăhu
+11	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x14-s3
+# text = ካሳ ቤት ውስጥ የለም ።
+# translit = kasa betə wəsəţə jälämə .
+1	ካሳ	ካሳ	PROPN	PROPN	_	4	nsubj	_	Translit=kasa|LTranslit=kasa
+2	ቤት	ቤት	NOUN	NOUN	_	4	obl	_	Translit=betə|LTranslit=betə
+3	ውስጥ	ውስጥ	ADP	ADP	_	2	case	_	Translit=wəsəţə|LTranslit=wəsəţə
+4-6	የለም	_	_	_	_	_	_	_	_
+4	የል	የል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=jälə|LTranslit=jälə
+5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ă
+6	ም	ም	PART	NCM	_	4	discourse	_	Translit=mə|LTranslit=mə
+7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x00-s12
+# text = በዝናቡ ምክንያት ጨዋታው ተላለፈ ።
+# translit = bäzənabu məkənəjatə ćäwatawə tälaläfä .
+1-3	በዝናቡ	_	_	_	_	_	_	_	_
+1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
+2	ዝናብ	ዝናብ	NOUN	NOUN	_	7	nmod	_	Translit=zənabə|LTranslit=zənabə
+3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
+4	ምክንያት	ምክንያት	ADP	ADP	_	2	case	_	Translit=məkənəjatə|LTranslit=məkənəjatə
+5-6	ጨዋታው	_	_	_	_	_	_	_	_
+5	ጨዋታ	ጨዋታ	NOUN	NOUN	_	7	nsubj:pass	_	Translit=ćäwata|LTranslit=ćäwata
+6	ው	ው	DET	DET	_	5	det	_	Translit=wə|LTranslit=wə
+7-8	ተላለፈ	_	_	_	_	_	_	_	_
+7	ተላለፍ	ተላለፍ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=tälaläfə|LTranslit=tälaläfə
+8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ă
+9	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x04-s16
+# text = ካሳ ከአባቱ በቁመት በለጠ ።
+# translit = kasa kä'äbatu bäqumätə bäläţä .
+1	ካሳ	ካሳ	PROPN	PROPN	_	7	nsubj	_	Translit=kasa|LTranslit=kasa
+2-4	ከአባቱ	_	_	_	_	_	_	_	_
+2	ከ	ከ	ADP	ADP	_	3	case	_	Translit=kä|LTranslit=kä
+3	አባት	አባት	NOUN	NOUN	_	7	obl	_	Translit='äbatə|LTranslit='äbatə
+4	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	LTranslit='əsu|Translit='u
+5-6	በቁመት	_	_	_	_	_	_	_	_
+5	በ	በ	ADP	ADP	_	6	case	_	Translit=bä|LTranslit=bä
+6	ቁመት	ቁመት	NOUN	NOUN	_	7	xcomp	_	Translit=qumätə|LTranslit=qumätə
+7-8	በለጠ	_	_	_	_	_	_	_	_
+7	በለጥ	በለጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=bäläţə|LTranslit=bäläţə
+8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ă
+9	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x20-s5
+# text = ከሳሾቻችን በቀጠሮ አልቀረቡም ።
+# translit = käsašočačənə bäqäţäro 'äləqäräbumə .
+1-2	ከሳሾቻችን	_	_	_	_	_	_	_	_
+1	ከሳሾች	ከሳሾች	NOUN	NOUN	Number=Plur	6	nsubj	_	Translit=käsašočə|LTranslit=käsašočə
+2	ኣችን	እኔ	PRON	POSM	Number=Plur|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əne|Translit='ačənə
+3-4	በቀጠሮ	_	_	_	_	_	_	_	_
+3	በ	በ	ADP	ADP	_	4	case	_	Translit=bä|LTranslit=bä
+4	ቀጠሮ	ቀጠሮ	NOUN	NOUN	_	6	obl	_	Translit=qäţäro|LTranslit=qäţäro
+5-8	አልቀረቡም	_	_	_	_	_	_	_	_
+5	ኣል	ኣል	PART	NEG	Polarity=Neg	6	advmod	_	Translit='alə|LTranslit='alə
+6	ቀረብ	ቀረብ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=qäräbə|LTranslit=qäräbə
+7	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='u
+8	ም	ም	PART	NCM	_	6	discourse	_	Translit=mə|LTranslit=mə
+9	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x14-s7
+# text = ካሳ ምሳ የበላው ከእናቱ ጋር አይደለም ።
+# translit = kasa məsa jäbälawə kä'ənatu garə 'äjədälämə .
+1	ካሳ	ካሳ	PROPN	PROPN	_	4	nsubj	_	Translit=kasa|LTranslit=kasa
+2	ምሳ	ምሳ	NOUN	NOUN	_	4	obj	_	Translit=məsa|LTranslit=məsa
+3-5	የበላው	_	_	_	_	_	_	_	_
+3	የ	የ	ADP	ADP	_	4	case	_	Translit=jä|LTranslit=jä
+4	በላ	በላ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=bäla|LTranslit=bäla
+5	ው	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=wə
+6-8	ከእናቱ	_	_	_	_	_	_	_	_
+6	ከ	ከ	ADP	ADP	_	7	case	_	Translit=kä|LTranslit=kä
+7	እናት	እናት	NOUN	NOUN	_	4	obl	_	Translit='ənatə|LTranslit='ənatə
+8	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod	_	LTranslit='əsu|Translit='u
+9	ጋር	ጋር	ADP	ADP	_	7	case	_	Translit=garə|LTranslit=garə
+10-12	አይደለም	_	_	_	_	_	_	_	_
+10	አይደል	አይደል	AUX	AUX	_	4	aux	_	Translit='äjədälə|LTranslit='äjədälə
+11	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ă
+12	ም	ም	PART	NCM	_	4	discourse	_	Translit=mə|LTranslit=mə
+13	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x13-s15
+# text = ልጆቹ ወተት ይወዳሉ ።
+# translit = lədžoču wätätə jəwädalu .
+1-2	ልጆቹ	_	_	_	_	_	_	_	_
+1	ልጆች	ልጆች	NOUN	NOUN	_	5	nsubj	_	Translit=lədžočə|LTranslit=lədžočə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3	ወተት	ወተት	NOUN	NOUN	_	5	obj	_	Translit=wätätə|LTranslit=wätätə
+4-7	ይወዳሉ	_	_	_	_	_	_	_	_
+4	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit=jə
+5	ወድድ	ወድድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=wädədə|LTranslit=wädədə
+6	ኣል	ኣል	AUX	AUX	_	5	aux	_	Translit='alə|LTranslit='alə
+7	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='u
+8	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = amh022
+# text = አልወልድም ።
+# translit = ʾalwäldəm.
+1-4	አልወልድም	_	_	_	_	_	_	_	_
+1	አል	አል	PART	NEG	Polarity=Neg	2	advmod	_	Translit=ʾal|LTranslit=ʾal
+2	ወለደ	ወለደ	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	Translit=wäld|LTranslit=wäld
+3	ኧ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	2	obj	_	LTranslit='əne|Translit=ňə
+4	ም	ም	PART	NEG	_	2	advmod	_	Translit=əm|LTranslit=əm
+5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 196
+# text = ውሃ ቀድታ አመጣችልኝ ።
+# translit = wəha qəṭət ʾa ʾamätʷ ʾäčʷlɲ .
+1	ውሃ	ውሃ	NOUN	NOUN	_	4	obj	_	Translit=wəha|LTranslit=wəha
+2-3	ቀድታ	_	_	_	_	_	_	_	_
+2	ቀድት	ቀድት	VERB	VERB	_	4	compound:svc	_	Translit=qəṭət|LTranslit=qṭt
+3	ኣ	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	LTranslit='əsu|Translit=ʾa
+4-7	አመጣችልኝ	_	_	_	_	_	_	_	_
+4	አመጥ	አመጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=ʾamätʷ|LTranslit=ʾamätʷ
+5	ኣች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit=ʾäč
+6	ል	ል	ADP	ADP	_	4	case	_	Translit=l|LTranslit=l
+7	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	4	expl	_	LTranslit='əne|Translit=ɲ
+8	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x17-s2
+# text = የምትሰጋ ከሆነ ልጅህን ወደዚያ ቦታ አትላክ ።
+# translit = jämətəsäga kähonä lədžəhənə wädäzija bota 'ätəlakə .
+1-5	የምትሰጋ	_	_	_	_	_	_	_	_
+1	የ	የ	PART	RLP	_	4	mark	_	Translit=jä|LTranslit=jä
+2	እም	እም	PART	IRLP	_	4	mark	_	Translit='əmə|LTranslit='əmə
+3	ት	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=tə
+4	ሰግ	ሰግ	VERB	VERB	Mood=Ind|VerbForm=Fin	17	advcl	_	Translit=sägə|LTranslit=sägə
+5	ኣ	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='a
+6-8	ከሆነ	_	_	_	_	_	_	_	_
+6	ከ	ከ	SCONJ	SCONJ	_	4	mark	_	Translit=kä|LTranslit=kä
+7	ሆን	ሆን	AUX	AUX	_	4	aux	_	Translit=honə|LTranslit=honə
+8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ă
+9-11	ልጅህን	_	_	_	_	_	_	_	_
+9	ልጅ	ልጅ	NOUN	NOUN	_	17	obj	_	Translit=lədžə|LTranslit=lədžə
+10	ህ	አንተ	PRON	POSM	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	9	nmod	_	LTranslit='änətä|Translit=hə
+11	ን	ን	PART	ACC	_	9	case	_	Translit=nə|LTranslit=nə
+12-13	ወደዚያ	_	_	_	_	_	_	_	_
+12	ወደ	ወደ	ADP	ADP	_	14	case	_	Translit=wädä|LTranslit=wädä
+13	እዚያ	እዚያ	DET	DET	_	14	det	_	Translit='əzija|LTranslit='əzija
+14	ቦታ	ቦታ	NOUN	NOUN	_	17	obl	_	Translit=bota|LTranslit=bota
+15-17	አትላክ	_	_	_	_	_	_	_	_
+15	ኣል	ኣል	PART	NEG	Polarity=Neg	17	advmod	_	Translit='alə|LTranslit='alə
+16	ት	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	LTranslit='əsu|Translit=tə
+17	ላክ	ላክ	VERB	VERB	Mood=Jus|VerbForm=Fin	0	root	_	Translit=lakə|LTranslit=lakə
+18	።	።	PUNCT	PUNCT	_	17	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 114
+# text = የእኔ ጦርነት ከበሽታ ጋር ነበር ።
+# translit = yeʔəne ṭorənt kʰä bǝšǝta gɑr näbär.
+1-2	የእኔ	_	_	_	_	_	_	_	_
+1	የ	የ	PART	RLP	_	2	case	_	Translit=ye|LTranslit=ye
+2	እኔ	እኔ	PRON	PRON	Case=Gen|Number=Sing|Person=1	3	nmod:poss	_	LTranslit=əne|Translit=ʔəne
+3	ጦርነት	ጦርነት	NOUN	NOUN	_	0	root	_	Translit=ṭorənt|LTranslit=ṭorənt
+4-5	ከበሽታ	_	_	_	_	_	_	_	_
+4	ከ	ከ	ADP	ADP	_	5	case	_	Translit=kʰä|LTranslit=kʰä
+5	በሽታ	በሽታ	NOUN	NOUN	_	3	obl	_	Translit=bǝšǝta|LTranslit=bǝšǝta
+6	ጋር	ጋር	ADP	ADP	_	5	case	_	Translit=gɑr|LTranslit=gɑr
+7	ነበር	ነበር	AUX	AUX	_	3	aux	_	Translit=näbär|LTranslit=näbär
+8	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 202
+# text = ጋዜጠኛ በሂስ ያመናል ።
+# translit = gazeeṭäñña bä-his yɨʾämin ʾäl.
+1	ጋዜጠኛ	ጋዜጠኛ	NOUN	NOUN	_	5	nsubj	_	Translit=gazeeṭäñña|LTranslit=gazeeṭäñña
+2-3	በሂስ	_	_	_	_	_	_	_	_
+2	በ	በ	ADP	ADP	_	3	case	_	Translit=bä|LTranslit=bä
+3	ሂስ	ሂስ	NOUN	NOUN	_	5	advmod	_	Translit=his|LTranslit=his
+4-6	ያመናል	_	_	_	_	_	_	_	_
+4	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit=yɨ
+5	አምን	አምን	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=ʾämin|LTranslit=ʾämin
+6	ኣል	ኣል	AUX	AUX	_	5	aux	_	Translit=ʾäl|LTranslit=ʾäl
+7	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 160
+# text = አብነት መለስ ብላ ሰውዬውን አየችው ።
+# translit = ʔäbɨnät mäläs bɨl ʔä säwɨyä wɨ nɨ ʔäyä ʔäč wɨ.
+1	አብነት	አብነት	PROPN	PROPN	_	8	nsubj	_	Translit=ʔäbɨnät|LTranslit=ʔäbɨnät
+2	መለስ	መለስ	NOUN	NOUN	_	3	advcl	_	Translit=mäläs|LTranslit=mäläs
+3-4	ብላ	_	_	_	_	_	_	_	_
+3	ብል	ብል	AUX	AUX	_	8	aux	_	Translit=bɨl|LTranslit=bɨl
+4	ኣ	ኣ	PRON	SUBJC	_	3	expl	_	Translit=ʔä|LTranslit=ʔä
+5-7	ሰውዬውን	_	_	_	_	_	_	_	_
+5	ሰውየ	ሰውየ	NOUN	NOUN	_	8	obj	_	Translit=säwɨyä|LTranslit=säwɨyä
+6	ው	ው	DET	DET	_	5	det	_	Translit=wɨ|LTranslit=wɨ
+7	ን	ን	PART	ACC	_	5	case	_	Translit=nɨ|LTranslit=nɨ
+8-10	አየችው	_	_	_	_	_	_	_	_
+8	አየ	አየ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=ʔäyä|LTranslit=ʔäyä
+9	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit=ʔäč
+10	ው	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit=wɨ
+11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 046
+# text = በፍቅር ቅረበው ፡፡
+# translit = bïfïqr qërïbä’ät.
+1-2	በፍቅር	_	_	_	_	_	_	_	_
+1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
+2	ፍቅር	ፍቅር	NOUN	NOUN	_	3	obl	_	Translit=fïk'ïr|LTranslit=fïk'ïr
+3-4	ቅረበው	_	_	_	_	_	_	_	_
+3	ቅረብ	ቅረብ	VERB	VERB	_	0	root	_	Translit=k'äräb|LTranslit=k'äräb
+4	ኧው	ኧው	PRON	SUBJC	_	3	nsubj	_	Translit='äwə|LTranslit='äwə
+5	፡፡	፡፡	PUNCT	PUNCT	_	3	punct	_	Translit=:|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x28-s3
+# text = ዝሆን አንበሳውን ረጋገጠው ።
+# translit = zəhonə 'änəbäsawənə rägagäţäwə .
+1	ዝሆን	ዝሆን	NOUN	NOUN	_	5	nsubj	_	Translit=zəhonə|LTranslit=zəhonə
+2-4	አንበሳውን	_	_	_	_	_	_	_	_
+2	አንበሳ	አንበሳ	NOUN	NOUN	_	5	obj	_	Translit='änəbäsa|LTranslit='änəbäsa
+3	ው	ው	DET	DET	_	2	det	_	Translit=wə|LTranslit=wə
+4	ን	ን	PART	ACC	_	2	case	_	Translit=nə|LTranslit=nə
+5-7	ረጋገጠው	_	_	_	_	_	_	_	_
+5	ረጋገጥ	ረጋገጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=rägagäţə|LTranslit=rägagäţə
+6	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='ă
+7	ው	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit=wə
+8	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x17-s13
+# text = ልጁ ርቦታልም ጠምቶታልም ።
+# translit = lədžu rəbotaləmə ţämətotaləmə .
+1-2	ልጁ	_	_	_	_	_	_	_	_
+1	ልጅ	ልጅ	NOUN	NOUN	_	3	nsubj	_	Translit=lədžə|LTranslit=lədžə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3-7	ርቦታልም	_	_	_	_	_	_	_	_
+3	ርብ	ርብ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=rəbə|LTranslit=rəbə
+4	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='o
+5	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	LTranslit='əsu|Translit=tə
+6	ኣል	ኣል	AUX	AUX	_	3	aux	_	Translit='alə|LTranslit='alə
+7	ም	ም	CCONJ	CCONJ	_	3	cc	_	Translit=mə|LTranslit=mə
+8-12	ጠምቶታልም	_	_	_	_	_	_	_	_
+8	ጠምት	ጠምት	VERB	VERB	Mood=Ind|VerbForm=Fin	3	conj	_	Translit=ţämətə|LTranslit=ţämətə
+9	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='o
+10	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	LTranslit='əsu|Translit=tə
+11	ኣል	ኣል	AUX	AUX	_	8	aux	_	Translit='alə|LTranslit='alə
+12	ም	ም	CCONJ	CCONJ	_	8	cc	_	Translit=mə|LTranslit=mə
+13	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x19-s13
+# text = ሜዳ ሜዳውን ሄደ ።
+# translit = meda medawənə hedä .
+1	ሜዳ	ሜዳ	NOUN	NOUN	_	2	nmod	_	Translit=meda|LTranslit=meda
+2-4	ሜዳውን	_	_	_	_	_	_	_	_
+2	ሜዳ	ሜዳ	NOUN	NOUN	_	5	obl	_	Translit=meda|LTranslit=meda
+3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
+4	ን	ን	PART	ACC	_	2	case	_	Translit=nə|LTranslit=nə
+5-6	ሄደ	_	_	_	_	_	_	_	_
+5	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=hedə|LTranslit=hedə
+6	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit='ă
+7	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x12-s10
+# text = ምን ብዬ ልመልስላቸው ?
+# translit = mənə bəje ləmäləsəlačäwə ?
+1	ምን	ምን	PRON	PRON	_	2	xcomp	_	Translit=mənə|LTranslit=mənə
+2-3	ብዬ	_	_	_	_	_	_	_	_
+2	ብል	ብል	VERB	VERB	Mood=Ind|VerbForm=Fin	5	xcomp	_	Translit=bələ|LTranslit=bələ
+3	ኤ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	LTranslit='əne|Translit='e
+4-7	ልመልስላቸው	_	_	_	_	_	_	_	_
+4	ል	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	LTranslit='əne|Translit=lə
+5	መልስ	መልስ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=mäləsə|LTranslit=mäləsə
+6	ል	ል	ADP	ADP	Case=Ben	5	mark	_	Translit=lə|LTranslit=lə
+7	ኣቸው	እሱ	PRON	OBJC	Gender=Neut|Number=Plur|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='ačäwə
+8	?	?	PUNCT	PUNCT	_	5	punct	_	Translit=?|LTranslit=?
+
+# sent_id = data_UD-x02-s18
+# text = ቃዠ ።
+# translit = qažä .
+1-2	ቃዠ	_	_	_	_	_	_	_	_
+1	ቃዥ	ቃዥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=qažə|LTranslit=qažə
+2	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	LTranslit='əsu|Translit='ă
+3	።	።	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x01-s18
+# text = ምንም ቢመጣ አልፈራም ።
+# translit = mənəmə bimäţa 'äləfäramə .
+1	ምንም	ምንም	PRON	PRON	_	4	nsubj	_	Translit=mənəmə|LTranslit=mənəmə
+2-5	ቢመጣ	_	_	_	_	_	_	_	_
+2	ብ	ብ	SCONJ	SCONJ	_	4	mark	_	Translit=bə|LTranslit=bə
+3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=jə
+4	መጥ	መጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	8	advcl	_	Translit=mäţə|LTranslit=mäţə
+5	ኣ	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='a
+6-9	አልፈራም	_	_	_	_	_	_	_	_
+6	ኣል	ኣል	PART	NEG	Polarity=Neg	8	advmod	_	Translit='alə|LTranslit='alə
+7	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	LTranslit='əne|Translit='ə
+8	ፈራ	ፈራ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=fära|LTranslit=fära
+9	ም	ም	PART	NCM	_	8	discourse	_	Translit=mə|LTranslit=mə
+10	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x24-s19
+# text = ወደ መጣበት አገር ይመለስ ።
+# translit = wädä mäţabätə 'ägärə jəmäläsə .
+1	ወደ	ወደ	ADP	ADP	_	2	mark	_	Translit=wädä|LTranslit=wädä
+2-5	መጣበት	_	_	_	_	_	_	_	_
+2	መጣ	መጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	6	acl	_	Translit=mäţa|LTranslit=mäţa
+3	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	LTranslit='əsu|Translit='ă
+4	በ	በ	ADP	ADP	Case=Loc	2	mark	_	Translit=bä|LTranslit=bä
+5	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit=tə
+6	አገር	አገር	NOUN	NOUN	_	8	obl	_	Translit='ägärə|LTranslit='ägärə
+7-8	ይመለስ	_	_	_	_	_	_	_	_
+7	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	LTranslit='əsu|Translit=jə
+8	መለስ	መለስ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=mäläsə|LTranslit=mäläsə
+9	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x24-s16
+# text = ሐውልቱ የቆመበት ስፍራ ከዚህ ሩቅ አይደለም ።
+# translit = ħäwələtu jäqomäbätə səfəra käzihə ruqə 'äjədälämə .
+1-2	ሐውልቱ	_	_	_	_	_	_	_	_
+1	ሐውልት	ሐውልት	NOUN	NOUN	_	4	nsubj	_	Translit=ħäwələtə|LTranslit=ħäwələtə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3-7	የቆመበት	_	_	_	_	_	_	_	_
+3	የ	የ	ADP	ADP	_	4	case	_	Translit=jä|LTranslit=jä
+4	ቆም	ቆም	VERB	VERB	Mood=Ind|VerbForm=Fin	8	acl	_	Translit=qomə|LTranslit=qomə
+5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ă
+6	በ	በ	ADP	ADP	_	4	mark	_	Translit=bä|LTranslit=bä
+7	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=tə
+8	ስፍራ	ስፍራ	NOUN	NOUN	_	12	nsubj	_	Translit=səfəra|LTranslit=səfəra
+9-10	ከዚህ	_	_	_	_	_	_	_	_
+9	ከ	ከ	ADP	ADP	_	10	case	_	Translit=kä|LTranslit=kä
+10	እዚህ	እዚህ	DET	DET	_	12	advmod	_	Translit='əzihə|LTranslit='əzihə
+11	ሩቅ	ሩቅ	ADJ	ADJ	_	12	xcomp	_	Translit=ruqə|LTranslit=ruqə
+12-14	አይደለም	_	_	_	_	_	_	_	_
+12	አይደል	አይደል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='äjədälə|LTranslit='äjədälə
+13	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	LTranslit='əsu|Translit='ă
+14	ም	ም	CCONJ	CCONJ	_	12	discourse	_	Translit=mə|LTranslit=mə
+15	።	።	PUNCT	PUNCT	_	12	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-third_apple_2-x22-s17
+# text = ልብስ ለመግዛት ብዬ ገበያ አልሄድም ።
+# translit = ləbəsə lämägəzatə bəje gäbäja 'äləhedəmə .
+1	ልብስ	ልብስ	NOUN	NOUN	_	3	obj	_	Translit=ləbəsə|LTranslit=ləbəsə
+2-3	ለመግዛት	_	_	_	_	_	_	_	_
+2	ለ	ለ	ADP	ADP	_	3	case	_	Translit=lä|LTranslit=lä
+3	መግዛት	መግዛት	NOUN	NOUN	VerbForm=Vnoun	4	ccomp	_	Translit=mägəzatə|LTranslit=mägəzatə
+4-5	ብዬ	_	_	_	_	_	_	_	_
+4	ብል	ብል	VERB	VERB	Mood=Ind|VerbForm=Fin	8	advcl	_	Translit=bələ|LTranslit=bələ
+5	ኤ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	LTranslit='əne|Translit='e
+6	ገበያ	ገበያ	NOUN	NOUN	_	8	obl	_	Translit=gäbäja|LTranslit=gäbäja
+7-9	አልሄድም	_	_	_	_	_	_	_	_
+7	ኣል	ኣል	PART	NEG	Polarity=Neg	8	advmod	_	Translit='alə|LTranslit='alə
+8	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=hedə|LTranslit=hedə
+9	ም	ም	PART	NCM	_	8	discourse	_	Translit=mə|LTranslit=mə
+10	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+
