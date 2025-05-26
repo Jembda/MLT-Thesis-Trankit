@@ -64,7 +64,7 @@ def split_and_save_conllu(input_file, train_file, dev_file, test_file,
 #output_dir = r'/mnt/c/Users/Min Dator/MLT\ Thesis/Data'
 
 
-input_path = r'./amh_att-ud-1302(new).conllu'
+input_path = r'./amh_att-ud-1400.conllu'
 output_dir = r'./'
 
 
@@ -73,9 +73,9 @@ os.makedirs(output_dir, exist_ok=True)
 
 split_and_save_conllu(
     input_file=input_path,
-    train_file=os.path.join(output_dir, "amh_att-ud-1300-train.conllu"),
-    dev_file=os.path.join(output_dir, "amh_att-ud-1300-dev.conllu"),
-    test_file=os.path.join(output_dir, "amh_att-ud-1300-test.conllu")
+    train_file=os.path.join(output_dir, "amh_att-ud-1400-train.conllu"),
+    dev_file=os.path.join(output_dir, "amh_att-ud-1400-dev.conllu"),
+    test_file=os.path.join(output_dir, "amh_att-ud-1400-test.conllu")
 
 )
 

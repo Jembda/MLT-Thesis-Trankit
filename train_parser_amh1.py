@@ -3,14 +3,14 @@ import trankit
 
 category = 'customized-mwt'
 #category = 'customized-mwt-ner'
-save_dir = './amharic_1302_pipeline'
+save_dir = './amharic_1000_segmented_pipeline'
 
 
 # Paths to training data
-train_txt_fpath = './amh_att-ud-1302-train.txt'
-dev_txt_fpath = './amh_att-ud-1302-dev.txt'
-train_conllu_fpath = './amh_att-ud-1302-train.conllu'
-dev_conllu_fpath = './amh_att-ud-1302-dev.conllu'
+train_txt_fpath = './amh_att-ud-1000-train-segmented.txt'
+dev_txt_fpath = './amh_att-ud-1000-train-segmented.txt'
+train_conllu_fpath = './amh_att-ud-1000-train.conllu'
+dev_conllu_fpath = './amh_att-ud-1000-train.conllu'
 
 
 # -------------------------------------------------
@@ -25,7 +25,7 @@ tokenizer_trainer = trankit.TPipeline(
         'train_conllu_fpath': train_conllu_fpath,
         'dev_txt_fpath': dev_txt_fpath,
         'dev_conllu_fpath': dev_conllu_fpath,
-        #'max_epoch': 1,  # Add hyperparameters
+        #'max_epoch': 20,  # Add hyperparameters
         'char_level': True  # Crucial for Ge'ez script languages
     }
 )
@@ -41,7 +41,7 @@ mw_splitter_trainer = trankit.TPipeline(
         'save_dir': save_dir,
         'train_conllu_fpath': train_conllu_fpath,
         'dev_conllu_fpath': dev_conllu_fpath,
-        #'max_epoch': 1
+        #'max_epoch': 20
     }
 )
 mw_splitter_trainer.train()
@@ -56,7 +56,7 @@ parser_trainer = trankit.TPipeline(
         'save_dir': save_dir,
         'train_conllu_fpath': train_conllu_fpath,
         'dev_conllu_fpath': dev_conllu_fpath,
-        #'max_epoch': 1
+        #'max_epoch': 20
     }
 )
 parser_trainer.train()
@@ -71,7 +71,7 @@ lemmatizer_trainer = trankit.TPipeline(
         'save_dir': save_dir,
         'train_conllu_fpath': train_conllu_fpath,
         'dev_conllu_fpath': dev_conllu_fpath,
-        #'max_epoch': 1
+        #'max_epoch': 20
     }
 )
 lemmatizer_trainer.train()
