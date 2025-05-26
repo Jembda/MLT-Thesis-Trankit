@@ -17,4 +17,5 @@ the broader advancement of Natural Language Processing (NLP) for low-resource la
  The full thesis document detailing methodology, results, and discussions.
 
 ## Until the models are uploaded to the official Trankit website, trained parsing models can be downloaded or accessed using the following links:
--[Link](#Link)
+-[Link](#Link) https://drive.google.com/drive/folders/1YBU4rPdKzEDb3jE4mhg6y09yPDQlSngy?usp=drive_link
+
