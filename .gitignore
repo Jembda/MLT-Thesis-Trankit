@@ -1,7 +1,6 @@
+amharic_*/
 *.pt
 *.mdl
-*/models--xlm-roberta-base/*
-*/xlm-roberta-base/*
 *.vocab.json
 *.character
 *.downloaded
