@@ -9,9 +9,12 @@ the broader advancement of Natural Language Processing (NLP) for low-resource la
 ## Contents of this Repository
 -[Data](#Data)
  Annotated Treebanks and preprocessed datasets used for training and evaluation.
--Scripts: Python scripts for split, lemma-fill, preprocessing, training, evaluation, and analysis.
--Notes: Research notes, training results(metrics and verification), and observations made during model development.
--Thesis:The full thesis document detailing methodology, results, and discussions.
+-[Scripts](#Scripts) 
+ Python scripts for split, lemma-fill, preprocessing, training, evaluation, and analysis.
+-[Notes](#Notes) 
+ Research notes, training results(metrics and verification), and observations made during model development.
+-[Thesis](#Thesis)
+ The full thesis document detailing methodology, results, and discussions.
 
 ## Until the models are uploaded to the official Trankit website, trained parsing models can be downloaded or accessed using the following links:
 -[Link](#Link)
