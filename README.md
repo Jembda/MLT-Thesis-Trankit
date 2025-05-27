@@ -17,5 +17,8 @@ the broader advancement of Natural Language Processing (NLP) for low-resource la
  The full thesis document detailing methodology, results, and discussions.
 
 ## Until the models are uploaded to the official Trankit website, trained parsing models can be downloaded or accessed using the following links:
+### Model on the exising UD Amharic Treebank (Seyoum et al., 2018)
 -[Link](#Link) https://drive.google.com/drive/folders/1YBU4rPdKzEDb3jE4mhg6y09yPDQlSngy?usp=drive_link
+### Model on expanded and refined Treebank (expansion by 330 annotated Trebank)
+-[Link](#Link) https://drive.google.com/drive/folders/1t8fgyjyamMCrlYd8WCD43pWQblRrvaBe?usp=drive_link
 
