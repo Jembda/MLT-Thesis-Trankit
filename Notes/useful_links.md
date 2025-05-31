@@ -21,4 +21,4 @@
 ## Tools for solving encoding issues
 - [Gremlins](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins)
 ## Tree visualisation
-- [tikz]https://ctan.math.illinois.edu/graphics/pgf/contrib/tikz-dependency/tikz-dependency-doc.pdf
+- [tikz](#tikz)https://ctan.math.illinois.edu/graphics/pgf/contrib/tikz-dependency/tikz-dependency-doc.pdf
